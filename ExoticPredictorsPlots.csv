@@ -1,0 +1,1364 @@
+Plot,State,County,Public_Latitude,Public_Longitude,Area
+004-01-0145,North Carolina,Montgomery,35.39644896,-80.07193347,1000
+004-01-0146,North Carolina,Montgomery,35.49840841,-79.82131605,700
+004-01-0150,North Carolina,Montgomery,35.4187352,-80.0857761,1000
+004-01-0151,North Carolina,Montgomery,35.421,-80.0237,1000
+004-01-0152,North Carolina,Randolph,35.62466591,-79.90779535,1000
+004-01-0153,North Carolina,Randolph,35.61593479,-79.90344233,1000
+004-01-0154,North Carolina,Montgomery,35.3858865,-79.97020996,1000
+004-01-0155,North Carolina,Stanly,35.35247409,-80.09918201,1000
+004-01-0156,North Carolina,Stanly,35.35703432,-80.09406833,600
+004-01-0157,North Carolina,Stanly,35.37290391,-80.07744388,1000
+004-01-0158,North Carolina,Stanly,35.37307445,-80.07734285,1000
+004-01-0159,North Carolina,Stanly,35.33214046,-80.09661355,1000
+004-02-0150,North Carolina,Montgomery,35.40390509,-80.08843291,1000
+004-02-0155,North Carolina,Randolph,35.62493567,-79.90672051,1000
+004-02-0156,North Carolina,Randolph,35.61815552,-79.90970592,1000
+004-02-0157,North Carolina,Montgomery,35.3,-80,1000
+004-02-0159,North Carolina,Stanly,35.37265466,-80.07786504,400
+004-02-0160,North Carolina,Stanly,35.33248857,-80.09734687,1000
+004-02-0161,North Carolina,Stanly,35.31046049,-80.09007933,1000
+004-02-0162,North Carolina,Stanly,35.33224197,-80.09934115,1000
+004-02-0165,North Carolina,Montgomery,35.41925294,-80.02518902,1000
+004-02-0166,North Carolina,Montgomery,35.40951509,-80.04777399,400
+004-03-0149,North Carolina,Montgomery,35.44526891,-80.06553213,1000
+004-03-0150,North Carolina,Montgomery,35.41582002,-80.0355839,1000
+004-03-0151,North Carolina,Montgomery,35.41869356,-80.03411765,1000
+004-03-0152,North Carolina,Montgomery,35.47259764,-79.95664756,1000
+004-03-0153,North Carolina,Montgomery,35.30100405,-79.89451715,1000
+004-03-0154,North Carolina,Stanly,35.35120039,-80.09886603,1000
+004-03-0155,North Carolina,Montgomery,35.23441201,-79.80387845,1000
+004-03-0156,North Carolina,Montgomery,35.31364992,-80.05682235,1000
+004-03-0165,North Carolina,Montgomery,35.44484368,-80.06884254,1000
+004-03-0166,North Carolina,Montgomery,35.43364044,-80.0658872,1000
+004-03-0167,North Carolina,Montgomery,35.412445,-80.08860081,1000
+004-03-0168,North Carolina,Montgomery,35.41289828,-80.08892612,800
+004-04-0145,North Carolina,Montgomery,35.39644303,-80.07116272,1000
+004-04-0146,North Carolina,Montgomery,35.39932128,-80.07024866,800
+004-04-0151,North Carolina,Montgomery,35.438144,-80.06528418,1000
+004-04-0152,North Carolina,Montgomery,35.40379954,-80.04332621,1000
+004-04-0153,North Carolina,Montgomery,35.40479824,-80.0441954,800
+004-04-0154,North Carolina,Montgomery,35.4059097,-80.04792664,800
+004-04-0155,North Carolina,Montgomery,35.48227961,-79.95023877,400
+004-04-0157,North Carolina,Rowan,35.52789328,-80.32774307,1000
+004-04-0158,North Carolina,Rowan,35.52571954,-80.32599651,1000
+004-04-0159,North Carolina,Stanly,35.35744109,-80.07634353,1000
+004-04-0160,North Carolina,Stanly,35.35845039,-80.09053039,1000
+004-04-0161,North Carolina,Stanly,35.361151,-80.08994968,1000
+004-05-0150,North Carolina,Montgomery,35.41961672,-80.08312256,1000
+004-05-0151,North Carolina,Montgomery,35.41970018,-80.08224042,1000
+004-05-0152,North Carolina,Montgomery,35.43427286,-80.03172775,1000
+004-05-0153,North Carolina,Montgomery,35.49903944,-79.90845332,1000
+004-05-0154,North Carolina,Montgomery,35.3,-79.9,1000
+004-05-0155,North Carolina,Montgomery,35.2982924,-79.89378422,800
+004-05-0156,North Carolina,Montgomery,35.41951568,-80.08169177,1000
+004-05-0157,North Carolina,Montgomery,35.48049477,-79.95235644,1000
+004-05-0158,North Carolina,Montgomery,35.43121579,-80.05555986,1000
+004-05-0159,North Carolina,Montgomery,35.39302719,-80.03794823,400
+004-05-0160,North Carolina,Montgomery,35.39736153,-80.07335452,1000
+004-05-0175,North Carolina,Montgomery,35.43339567,-80.08098295,1000
+004-05-0177,North Carolina,Montgomery,35.41335156,-80.08925142,1000
+004-06-0151,North Carolina,Montgomery,35.42083333,-80.02616667,400
+004-06-0152,North Carolina,Rowan,35.51899943,-80.27124066,1000
+004-06-0153,North Carolina,Montgomery,35.50050548,-79.81817609,400
+004-06-0165,North Carolina,Montgomery,35.43360003,-80.01543112,1000
+004-06-0166,North Carolina,Montgomery,35.39884842,-80.06739098,1000
+004-07-0150,North Carolina,Montgomery,35.31708877,-79.9699851,1000
+004-07-0152,North Carolina,Rowan,35.51565214,-80.26939619,1000
+004-07-0153,North Carolina,Montgomery,35.23451193,-79.80486605,1000
+018-0A-0017,North Carolina,Alexander,36.01244366,-81.15738025,1000
+018-0A-0018,North Carolina,Alexander,36.01357177,-81.1565502,1000
+018-0A-0019,North Carolina,Alexander,36.01402001,-81.15849315,1000
+019-01-0001,North Carolina,Granville,36.10955778,-78.77554796,1000
+019-01-0002,North Carolina,Granville,36.1115333,-78.77805826,400
+019-01-0004,North Carolina,Granville,36.14542141,-78.77833607,1000
+019-01-0005,North Carolina,Granville,36.47723458,-78.59097084,1000
+019-01-0009,North Carolina,Granville,36.14347184,-78.77722421,400
+019-01-0012,North Carolina,Granville,36.14320521,-78.78083231,600
+019-01-0013,North Carolina,Durham,36.07625308,-78.86084017,400
+019-01-0015,North Carolina,Granville,36.4823541,-78.58964041,1000
+019-01-0016,North Carolina,Durham,36.08013804,-78.86083485,1000
+019-01-0017,North Carolina,Granville,36.47353886,-78.58961221,1000
+019-01-0018,North Carolina,Granville,36.48618582,-78.59282543,600
+019-01-0019,North Carolina,Durham,36.0773585,-78.86166521,400
+019-01-0020,North Carolina,Granville,36.14514468,-78.78139999,400
+019-01-0021,North Carolina,Durham,36.08152997,-78.87778683,400
+019-01-0022,North Carolina,Durham,36.08264103,-78.8763911,1000
+019-01-0023,North Carolina,Durham,36.08042528,-78.87750561,1000
+019-01-0024,North Carolina,Durham,36.07820507,-78.86972593,1000
+019-01-0025,North Carolina,Durham,36.07680557,-78.87111834,400
+019-01-0026,North Carolina,Durham,36.08097413,-78.87083937,400
+019-01-0027,North Carolina,Durham,35.97792373,-78.7205523,800
+019-01-0028,North Carolina,Durham,36.07152697,-78.86473211,400
+019-01-0029,North Carolina,Durham,36.01124844,-78.960009,400
+042-04-0631,South Carolina,Pickens,34.90076088,-82.65849219,600
+042-04-0632,South Carolina,Pickens,34.90249458,-82.66028906,400
+042-04-0633,South Carolina,Pickens,34.90052023,-82.65894701,500
+042-04-0634,South Carolina,Pickens,34.90162505,-82.6585971,400
+042-04-0635,South Carolina,Pickens,34.9018126,-82.65938886,1000
+046-01-0661,North Carolina,Rutherford,35.55127873,-81.73223448,1000
+046-01-0662,North Carolina,Rutherford,35.54725918,-81.7319221,1000
+046-01-0663,North Carolina,Burke,35.60138382,-81.64926265,1000
+046-01-0664,North Carolina,Burke,35.63120255,-81.63393186,1000
+046-03-0660,North Carolina,Burke,35.59968285,-81.61440769,1000
+046-03-0661,North Carolina,Burke,35.60359734,-81.63665055,500
+046-04-0661,North Carolina,Burke,35.62957106,-81.73651529,1000
+046-04-0663,North Carolina,Burke,35.63708542,-81.7285437,1000
+046-04-0665,North Carolina,Rutherford,35.26689768,-81.85489296,400
+046-04-0667,North Carolina,Rutherford,35.2696575,-81.85481198,400
+046-04-0668,North Carolina,Polk,35.3,-82,1000
+046-05-0660,North Carolina,Rutherford,35.57978371,-81.71825643,1000
+046-05-0661,North Carolina,Rutherford,35.57872832,-81.71983629,1000
+046-05-0663,North Carolina,Cleveland,35.56664959,-81.67095303,1000
+046-05-0665,North Carolina,Rutherford,35.5,-81.8,1000
+046-05-0666,North Carolina,Catawba,35.65648728,-81.41452813,1000
+046-05-0667,North Carolina,Catawba,35.65691831,-81.40712837,1000
+046-05-0668,North Carolina,Catawba,35.65896433,-81.40734869,1000
+046-06-0661,North Carolina,Burke,35.63573247,-81.7433311,1000
+046-06-0662,North Carolina,Rutherford,35.55797434,-81.78432001,1000
+046-07-0660,North Carolina,Rutherford,35.57033883,-81.71142932,1000
+046-07-0661,North Carolina,Burke,35.57959361,-81.68442673,1000
+046-08-0660,North Carolina,Burke,35.63723323,-81.72795967,400
+047-04-0703,North Carolina,Franklin,36.08280706,-78.1666028,1000
+052-01-0803,North Carolina,Alexander,35.96442502,-81.11694823,600
+052-01-0804,North Carolina,Stokes,36.39885275,-80.27889668,1000
+052-01-0805,North Carolina,Surry,36.3434951,-80.48345984,1000
+052-01-0806,North Carolina,Surry,36.33920449,-80.46516883,1000
+052-01-0809,North Carolina,Alexander,36.01627518,-81.14989602,1000
+052-01-0810,North Carolina,Stokes,36.4224397,-80.29303501,1000
+052-02-0803,North Carolina,Surry,36.26264268,-80.49128438,1000
+052-02-0804,North Carolina,Stokes,36.4,-80.3,800
+052-02-0805,North Carolina,Wilkes,36.05315656,-81.03836029,1000
+052-03-0805,North Carolina,Stokes,36.40220765,-80.26432345,400
+052-03-0806,North Carolina,Surry,36.34,-80.47,1000
+052-03-0807,North Carolina,Stokes,36.40897186,-80.25360079,1000
+052-03-0808,North Carolina,Wilkes,36.05176466,-81.03494999,1000
+052-03-0809,North Carolina,Stokes,36.37968579,-80.11516494,1000
+052-04-0806,North Carolina,Stokes,36.39492619,-80.28556778,500
+052-04-0809,North Carolina,Stokes,36.38694952,-80.28134808,1000
+052-04-0810,North Carolina,Stokes,36.39556115,-80.26247927,1000
+052-04-0811,North Carolina,Alexander,36.01272427,-81.15590395,1000
+052-04-0812,North Carolina,Stokes,36.38039701,-80.11381903,1000
+052-05-0801,North Carolina,Alexander,36.01384136,-81.1495141,1000
+052-07-0800,North Carolina,Stokes,36.39908679,-80.27973311,1000
+052-07-0801,North Carolina,Surry,36.34021537,-80.4859776,1000
+052-08-0801,North Carolina,Stokes,36.39602451,-80.27781884,1000
+052-08-0802,North Carolina,Yadkin,36.2530984,-80.5005738,1000
+052-09-0800,North Carolina,Alexander,36.01293292,-81.15490561,1000
+052-09-0801,North Carolina,Wilkes,36.08780785,-81.12809767,1000
+053-01-0100,North Carolina,Orange,36.08080601,-79.13961449,1000
+053-01-0101,North Carolina,Orange,35.98359125,-79.01949812,1000
+053-01-0102,North Carolina,Orange,35.9837029,-79.00556502,1000
+053-01-0103,North Carolina,Orange,36.02080717,-79.00133451,1000
+053-01-0104,North Carolina,Orange,35.88493909,-79.04651653,1000
+053-01-0106,North Carolina,Orange,35.87926175,-79.02842414,1000
+053-01-0107,North Carolina,Orange,35.89611524,-79.03150706,1000
+053-01-0108,North Carolina,Orange,36.08700872,-79.0198825,1000
+053-01-0109,North Carolina,Orange,36.08094526,-79.02006792,1000
+053-01-0110,North Carolina,Orange,35.98415893,-79.05751542,800
+053-01-0111,North Carolina,Durham,36.19671664,-78.88745673,1000
+053-01-0112,North Carolina,Durham,36.18089696,-78.88538733,1000
+053-01-0113,North Carolina,Durham,36.20337272,-78.88972072,1000
+053-01-0114,North Carolina,Durham,36.20588023,-78.88726214,1000
+053-01-0117,North Carolina,Durham,36.14121527,-78.93166072,1000
+053-01-0118,North Carolina,Durham,36.14395909,-78.94075722,1000
+053-01-0119,North Carolina,Chatham,35.61747909,-79.15366579,1000
+053-01-0121,North Carolina,Wake,36.00129137,-78.66792542,1000
+053-01-0122,North Carolina,Wake,36.0006379,-78.66862132,1000
+053-01-0123,North Carolina,Wake,35.76330354,-78.68625356,1000
+053-01-0124,North Carolina,Wake,35.84084637,-78.73667542,1000
+058-01-0005,North Carolina,Granville,36.17657213,-78.77780123,1000
+058-01-0034,North Carolina,Rowan,35.68097112,-80.60827034,1000
+058-02-0044,North Carolina,Durham,36.17997167,-78.82005415,1000
+058-02-0060,North Carolina,Granville,36.11613078,-78.78733807,1000
+058-03-0036,North Carolina,Durham,36.18361956,-78.81397118,1000
+058-03-0039,North Carolina,Durham,36.17904333,-78.81708913,1000
+058-03-0045,North Carolina,Durham,36.18068605,-78.81918936,1000
+058-03-0050,North Carolina,Granville,36.16556421,-78.78109122,1000
+058-03-0054,North Carolina,Granville,36.11537265,-78.78626068,1000
+058-08-0006,North Carolina,Granville,36.11834827,-78.78734249,1000
+058-08-0027,North Carolina,Rowan,35.70182566,-80.6241268,1000
+058-08-0030,North Carolina,Rowan,35.70196247,-80.62840738,1000
+058-08-0033,North Carolina,Rowan,35.68143121,-80.60834544,1000
+058-08-0051,North Carolina,Granville,36.17118026,-78.78014355,1000
+058-08-0053,North Carolina,Granville,36.1146301,-78.78612489,1000
+059-01-0849,South Carolina,York,34.90005433,-81.1342406,1000
+059-01-0850,North Carolina,Mecklenburg,35.1461848,-80.94466954,1000
+059-01-0851,South Carolina,York,34.89867775,-81.01437109,1000
+059-02-0851,North Carolina,Gaston,35.30199901,-81.08809315,1000
+059-03-0851,North Carolina,Gaston,35.20313577,-81.31198875,400
+059-03-0852,North Carolina,Gaston,35.30237709,-81.0889515,1000
+059-03-0853,North Carolina,Gaston,35.30289112,-81.08887507,400
+059-03-0856,North Carolina,Gaston,35.29192868,-81.09768341,1000
+059-04-0850,South Carolina,York,34.90310765,-81.01606608,1000
+059-04-0852,North Carolina,Gaston,35.19533209,-81.316957,500
+059-04-0854,North Carolina,Gaston,35.30458567,-81.08974589,1000
+059-04-0856,South Carolina,York,34.82731139,-81.12545523,1000
+059-04-0857,North Carolina,Gaston,35.29166774,-81.09699023,1000
+059-05-0850,North Carolina,Gaston,35.23860736,-81.27148107,1000
+059-05-0851,North Carolina,Gaston,35.23724968,-81.26974005,1000
+059-05-0852,North Carolina,Gaston,35.29009543,-81.10109048,1000
+059-05-0853,North Carolina,Gaston,35.23079759,-81.27984013,1000
+059-07-0850,South Carolina,York,34.89283643,-81.01402858,500
+059-08-0850,South Carolina,York,34.90312188,-81.02409175,1000
+059-08-0851,South Carolina,York,34.90185939,-81.02425557,1000
+059-08-0852,North Carolina,Gaston,35.21236609,-81.30663378,1000
+059-08-0855,North Carolina,Gaston,35.30216699,-81.09257004,400
+059-08-0856,North Carolina,Gaston,35.22969935,-81.2750999,1000
+059-09-0850,South Carolina,York,34.89235834,-81.01483838,1000
+070-09-0101,North Carolina,Orange,35.8856,-79.0234,1000
+070-09-0120,North Carolina,Orange,35.8887,-79.0224,1000
+070-09-0162,North Carolina,Orange,35.8873,-79.0233,1000
+074-07-0020,North Carolina,Chatham,35.53608854,-79.31992687,1000
+077-06-0056,South Carolina,Pickens,34.96063889,-82.85533333,1000
+081-02-1309,North Carolina,Wake,35.73368468,-78.70418069,1000
+082-01-1100,North Carolina,Richmond,34.95201452,-79.86961503,1000
+082-01-1107,North Carolina,Richmond,34.95660427,-79.86576256,1000
+082-03-1103,North Carolina,Richmond,35.0695202,-79.90382716,1000
+082-04-1100,North Carolina,Richmond,35.07136039,-79.90491027,1000
+082-04-1112,North Carolina,Anson,35.06829249,-80.05819637,1000
+082-07-1106,North Carolina,Richmond,35.07753541,-79.90674723,1000
+082-09-1102,North Carolina,Richmond,34.95203582,-79.86706302,1000
+085-ABSF-0002,Virginia,Appomattox,37,-79,400
+085-ABSF-0003,Virginia,Appomattox,37,-79,400
+085-ABSF-0004,Virginia,Appomattox,37,-79,400
+085-ABSF-0005,Virginia,Appomattox,37,-79,400
+085-ABSF-0006,Virginia,Appomattox,37,-79,400
+085-ABSF-0007,Virginia,Buckingham,37,-79,400
+085-ABSF-0008,Virginia,Appomattox,37,-79,400
+085-ABSF-0009,Virginia,Appomattox,37,-79,400
+085-ABSF-0010,Virginia,Buckingham,37,-79,400
+085-ABSF-0011,Virginia,Buckingham,37,-79,400
+085-ABSF-0012,Virginia,Buckingham,37,-79,400
+085-ABSF-0013,Virginia,Buckingham,37,-79,400
+085-ABSF-0014,Virginia,Buckingham,37,-79,400
+085-ABSF-0015,Virginia,Buckingham,37,-79,400
+085-ABSF-0016,Virginia,Buckingham,37,-79,400
+085-ABSF-0017,Virginia,Buckingham,37,-79,400
+085-ABSF-0018P,Virginia,Appomattox,37,-79,1000
+085-ABSF-0019,Virginia,Appomattox,37,-79,400
+085-ABSF-0020,Virginia,Buckingham,37,-79,400
+085-ABSF-0021,Virginia,Appomattox,37,-79,400
+085-ABSF-0022,Virginia,Buckingham,37,-79,400
+085-ALBE-0001,Virginia,Albemarle,38,-78,400
+085-ALBE-0002,Virginia,Albemarle,38,-78,400
+085-ALBE-0003,Virginia,Albemarle,38,-78,400
+085-ALBE-0004,Virginia,Albemarle,38,-78,400
+085-ALBE-0005,Virginia,Albemarle,38,-78,400
+085-ALBE-0006P,Virginia,Albemarle,38,-79,400
+085-ALBE-0007,Virginia,Albemarle,38,-79,400
+085-ALBE-0008,Virginia,Albemarle,38,-79,400
+085-ALBE-0009,Virginia,Albemarle,38,-79,400
+085-ALBE-0012,Virginia,Albemarle,38,-78,400
+085-ALBE-0015,Virginia,Albemarle,38,-79,400
+085-ALBE-0016,Virginia,Albemarle,38,-79,400
+085-ALEX-0001,Virginia,City of Alexandria,39,-77,400
+085-ALEX-0002,Virginia,City of Alexandria,39,-77,400
+085-ALEX-0003,Virginia,City of Alexandria,39,-77,400
+085-ALEX-0005,Virginia,City of Alexandria,39,-77,400
+085-AMHE-0001,Virginia,Amherst,38,-79,400
+085-AMHE-0002,Virginia,Amherst,38,-79,400
+085-AMHE-0003,Virginia,Amherst,38,-79,400
+085-AMHE-0004,Virginia,Amherst,38,-79,400
+085-AMWM-0002,Virginia,Amelia,37,-78,400
+085-AMWM-0003,Virginia,Amelia,37,-78,400
+085-AMWM-0004,Virginia,Amelia,37,-78,400
+085-AMWM-0005,Virginia,Amelia,37,-78,400
+085-AMWM-0006,Virginia,Amelia,37,-78,400
+085-APCO-0001,Virginia,Appomattox,37,-79,400
+085-APCO-0002,Virginia,Appomattox,37,-79,400
+085-APCO-0004,Virginia,Appomattox,37,-79,400
+085-APCO-0005,Virginia,Appomattox,37,-79,400
+085-APCO-0006,Virginia,Appomattox,37,-79,400
+085-APCO-0007,Virginia,Appomattox,37,-79,400
+085-APCO-0009,Virginia,Appomattox,37,-79,400
+085-APCO-0010,Virginia,Appomattox,37,-79,400
+085-APCO-0012,Virginia,Appomattox,37,-79,400
+085-APCO-0013,Virginia,Appomattox,37,-79,400
+085-APPO-0002,Virginia,Appomattox,37,-79,400
+085-ARLI-0001,Virginia,Arlington,39,-77,400
+085-ARLI-0002,Virginia,Arlington,39,-77,400
+085-BBRP-0001,Virginia,Loudoun,39,-78,400
+085-BBRP-0003,Virginia,Loudoun,39,-78,400
+085-BBRP-0004,Virginia,Loudoun,39,-78,400
+085-BEDF-0005,Virginia,Bedford,37,-80,400
+085-BESP-0002,Virginia,Powhatan,38,-78,400
+085-BRUN-0001,Virginia,Brunswick,37,-78,400
+085-BRUN-0002,Virginia,Brunswick,37,-78,400
+085-BRUN-0006,Virginia,Brunswick,37,-78,1000
+085-BRUN-0007,Virginia,Brunswick,37,-78,400
+085-BRUN-0008,Virginia,Brunswick,37,-78,400
+085-BRUN-0010,Virginia,Brunswick,37,-78,400
+085-BRUN-0012,Virginia,Brunswick,37,-78,400
+085-BUCK-0001,Virginia,Buckingham,38,-79,400
+085-BUCK-0003,Virginia,Buckingham,38,-79,400
+085-BUCK-0004,Virginia,Buckingham,38,-79,400
+085-BUCK-0005,Virginia,Buckingham,38,-79,400
+085-BUCK-0006,Virginia,Buckingham,38,-79,400
+085-BULL-0002,Virginia,Fauquier,39,-78,400
+085-BULL-0003,Virginia,Fauquier,39,-78,400
+085-BULL-0004,Virginia,Fauquier,39,-78,400
+085-BULL-0005,Virginia,Prince William,39,-78,400
+085-BULL-0006,Virginia,Prince William,39,-78,400
+085-BULL-0007P,Virginia,Prince William,39,-78,400
+085-BULL-0007R,Virginia,Prince William,39,-78,400
+085-BULL-0008,Virginia,Fauquier,39,-78,400
+085-BULL-0009,Virginia,Fauquier,39,-78,400
+085-BULL-0016P,Virginia,Fauquier,39,-78,400
+085-BULL-0016R,Virginia,Fauquier,39,-78,400
+085-BULL-0017P,Virginia,Fauquier,39,-78,400
+085-BULL-0017R,Virginia,Fauquier,39,-78,400
+085-BULL-0018P,Virginia,Fauquier,39,-78,400
+085-BULL-0018R,Virginia,Fauquier,39,-78,400
+085-BULL-0019P,Virginia,Fauquier,39,-78,400
+085-BULL-0019R,Virginia,Fauquier,39,-78,400
+085-BULL-0020P,Virginia,Prince William,39,-78,400
+085-BULL-0020R,Virginia,Prince William,39,-78,400
+085-BULL-0021P,Virginia,Prince William,39,-78,400
+085-BULL-0021R,Virginia,Prince William,39,-78,400
+085-BULL-0022P,Virginia,Fauquier,39,-78,400
+085-BULL-0022R,Virginia,Fauquier,39,-78,400
+085-BULL-0023P,Virginia,Prince William,39,-78,400
+085-BULL-0023R,Virginia,Prince William,39,-78,400
+085-BULL-0024P,Virginia,Prince William,39,-78,400
+085-BULL-0024R,Virginia,Prince William,39,-78,400
+085-BULL-0025P,Virginia,Prince William,39,-78,400
+085-BULL-0025R,Virginia,Prince William,39,-78,400
+085-BULL-0026P,Virginia,Prince William,39,-78,400
+085-BULL-0026R,Virginia,Prince William,39,-78,400
+085-BULL-0027P,Virginia,Prince William,39,-78,400
+085-BULL-0027R,Virginia,Prince William,39,-78,400
+085-BULL-0028,Virginia,Prince William,39,-78,400
+085-BULL-0029P,Virginia,Prince William,39,-78,400
+085-BULL-0030P,Virginia,Prince William,39,-78,400
+085-BULL-0030R,Virginia,Prince William,39,-78,400
+085-BULL-0031P,Virginia,Prince William,39,-78,400
+085-BULL-0031R,Virginia,Prince William,39,-78,400
+085-BULL-0032P,Virginia,Fauquier,39,-78,400
+085-BULL-0032R,Virginia,Fauquier,39,-78,400
+085-BULL-0033,Virginia,Loudoun,39,-78,400
+085-BULL-0034P,Virginia,Fauquier,39,-78,400
+085-BULL-0034R,Virginia,Fauquier,39,-78,400
+085-BULL-0035P,Virginia,Fauquier,39,-78,400
+085-BULL-0035R,Virginia,Fauquier,39,-78,400
+085-BULL-0036P,Virginia,Fauquier,39,-78,400
+085-BULL-0036R,Virginia,Fauquier,39,-78,400
+085-BULL-0037P,Virginia,Fauquier,39,-78,400
+085-BULL-0037R,Virginia,Fauquier,39,-78,400
+085-BULL-0038P,Virginia,Fauquier,39,-78,400
+085-BULL-0038R,Virginia,Fauquier,39,-78,400
+085-BULL-0039,Virginia,Fauquier,39,-78,400
+085-BULL-0040,Virginia,Fauquier,39,-78,400
+085-BULL-0041,Virginia,Fauquier,39,-78,400
+085-BULL-0042,Virginia,Fauquier,39,-78,400
+085-BULL-0043P,Virginia,Fauquier,39,-78,400
+085-BULL-0043R,Virginia,Fauquier,39,-78,400
+085-BULL-0044P,Virginia,Fauquier,39,-78,400
+085-BULL-0044R,Virginia,Fauquier,39,-78,400
+085-BULL-0045,Virginia,Fauquier,39,-78,400
+085-BULL-0046P,Virginia,Prince William,39,-78,400
+085-BULL-0047P,Virginia,Fauquier,39,-78,400
+085-BULL-0047R,Virginia,Fauquier,39,-78,400
+085-BULL-0048,Virginia,Fauquier,39,-78,400
+085-BULL-0049P,Virginia,Prince William,39,-78,400
+085-BULL-0049R,Virginia,Prince William,39,-78,400
+085-BULL-0050P,Virginia,Prince William,39,-78,400
+085-BULL-0050R,Virginia,Prince William,39,-78,400
+085-BULL-0051P,Virginia,Prince William,39,-78,400
+085-BULL-0051R,Virginia,Prince William,39,-78,400
+085-BULL-0052P,Virginia,Prince William,39,-78,400
+085-BULL-0052R,Virginia,Prince William,39,-78,400
+085-BULL-0053,Virginia,Loudoun,39,-78,400
+085-BULL-0054,Virginia,Loudoun,39,-78,400
+085-BULL-0055,Virginia,Loudoun,39,-78,400
+085-BULL-0056,Virginia,Loudoun,39,-78,400
+085-BULL-0057,Virginia,Fauquier,39,-78,400
+085-BULL-0058P,Virginia,Fauquier,39,-78,400
+085-BULL-0058R,Virginia,Fauquier,39,-78,400
+085-BULL-0059R,Virginia,Fauquier,39,-78,400
+085-BULL-0060P,Virginia,Fauquier,39,-78,400
+085-BULL-0061,Virginia,Fauquier,39,-78,400
+085-BULL-0062,Virginia,Fauquier,39,-78,400
+085-BULL-0063,Virginia,Fauquier,39,-78,400
+085-BULL-0064R,Virginia,Fauquier,39,-78,400
+085-BULL-0066P,Virginia,Fauquier,39,-78,400
+085-BULL-0067P,Virginia,Fauquier,39,-78,400
+085-BULL-0067R,Virginia,Fauquier,39,-78,400
+085-BULL-0069P,Virginia,Fauquier,39,-78,400
+085-BULL-0069R,Virginia,Fauquier,39,-78,400
+085-BULL-0070P,Virginia,Fauquier,39,-78,400
+085-BULL-0071P,Virginia,Fauquier,39,-78,400
+085-BULL-0071R,Virginia,Fauquier,39,-78,400
+085-BULL-0072P,Virginia,Fauquier,39,-78,400
+085-BULL-0072R,Virginia,Fauquier,39,-78,400
+085-BWNM-0001,Virginia,Franklin,37,-80,400
+085-BWNM-0002,Virginia,Franklin,37,-80,400
+085-BWNM-0004,Virginia,Franklin,37,-80,400
+085-BWNM-0006,Virginia,Franklin,37,-80,1000
+085-CAMP-0001,Virginia,Campbell,37,-79,400
+085-CAMP-0003,Virginia,Campbell,37,-79,400
+085-CHAR-0001,Virginia,Charlotte,37,-79,400
+085-CHAR-0002,Virginia,Charlotte,37,-79,400
+085-CHES-0001,Virginia,City of Richmond,38,-78,400
+085-CHES-0002,Virginia,City of Richmond,38,-78,400
+085-CRSF-0001,Virginia,Prince William,39,-78,400
+085-CRSF-0003,Virginia,Prince William,39,-78,400
+085-CULP-0003,Virginia,Culpeper,38,-78,400
+085-CULP-0004,Virginia,Culpeper,38,-78,400
+085-CULP-0005,Virginia,Culpeper,38,-78,400
+085-CULP-0006,Virginia,Culpeper,38,-78,400
+085-CUMB-0001,Virginia,Cumberland,38,-78,400
+085-CUMB-0004,Virginia,Cumberland,37,-78,400
+085-CUSF-0001,Virginia,Cumberland,38,-78,400
+085-CUSF-0002,Virginia,Cumberland,38,-78,400
+085-CUSF-0004,Virginia,Cumberland,38,-78,400
+085-CUSF-0005,Virginia,Cumberland,38,-78,400
+085-CUSF-0006,Virginia,Cumberland,38,-78,400
+085-CUSF-0007,Virginia,Cumberland,38,-78,400
+085-CUSF-0008,Virginia,Cumberland,38,-78,400
+085-CUSF-0009,Virginia,Cumberland,38,-78,400
+085-CUSF-0010,Virginia,Cumberland,38,-78,400
+085-CUSF-0012,Virginia,Cumberland,38,-78,400
+085-CUSF-0013,Virginia,Buckingham,38,-78,400
+085-CUSF-0014,Virginia,Buckingham,38,-78,400
+085-CUSF-0016,Virginia,Cumberland,38,-78,400
+085-CUSF-0017,Virginia,Cumberland,38,-78,400
+085-CUSF-0019,Virginia,Cumberland,38,-78,400
+085-CUSF-0020,Virginia,Cumberland,38,-78,400
+085-CUSF-0021,Virginia,Cumberland,38,-78,400
+085-CUSF-0028,Virginia,Cumberland,37,-78,400
+085-CUSF-0030,Virginia,Cumberland,38,-78,400
+085-CUSF-0031,Virginia,Cumberland,38,-78,400
+085-CUSF-0032,Virginia,Cumberland,38,-78,1000
+085-CUSF-0033P,Virginia,Cumberland,38,-78,1000
+085-CUSF-0035,Virginia,Cumberland,38,-78,400
+085-CUSF-0037,Virginia,Cumberland,38,-78,400
+085-CUSF-0038,Virginia,Cumberland,38,-78,800
+085-CUSF-0040,Virginia,Cumberland,38,-78,400
+085-FAIR-0002,Virginia,Fairfax,39,-77,400
+085-FAIR-0004,Virginia,Fairfax,39,-77,400
+085-FAIR-0005,Virginia,Fairfax,39,-77,400
+085-FAIR-0006,Virginia,Fairfax,39,-77,400
+085-FAIR-0007,Virginia,Fairfax,39,-77,400
+085-FAIR-0008,Virginia,Fairfax,39,-77,400
+085-FAIR-0009,Virginia,Fairfax,39,-77,400
+085-FAIR-0010,Virginia,Fairfax,39,-77,400
+085-FAIR-0011,Virginia,Fairfax,39,-77,400
+085-FAIR-0012,Virginia,Fairfax,39,-77,400
+085-FAIR-0016,Virginia,Fairfax,39,-78,400
+085-FAIR-0017,Virginia,Fairfax,39,-77,400
+085-FAIR-0018,Virginia,Fairfax,39,-77,400
+085-FAIR-0019,Virginia,Fairfax,39,-77,400
+085-FAIR-0020,Virginia,Fairfax,39,-78,400
+085-FAIR-0022,Virginia,Fairfax,39,-77,400
+085-FAIR-0023,Virginia,Fairfax,39,-77,400
+085-FAIR-0024,Virginia,Fairfax,39,-77,400
+085-FAIR-0025,Virginia,Fairfax,39,-77,400
+085-FAIR-0027,Virginia,Fairfax,39,-77,400
+085-FAIR-0028,Virginia,Fairfax,39,-77,400
+085-FAIR-0031,Virginia,Fairfax,39,-77,400
+085-FAIR-0032,Virginia,Fairfax,39,-77,400
+085-FAIR-0034,Virginia,Fairfax,39,-77,400
+085-FAIR-0035,Virginia,Fairfax,39,-77,400
+085-FAIR-0037,Virginia,Fairfax,39,-77,400
+085-FAIR-0038,Virginia,Fairfax,39,-77,400
+085-FAIR-0040,Virginia,Fairfax,39,-77,400
+085-FAIR-0041,Virginia,Fairfax,39,-77,1000
+085-FAIR-0042,Virginia,Fairfax,39,-77,400
+085-FAIR-0043,Virginia,Fairfax,39,-77,400
+085-FAIR-0044,Virginia,Fairfax,39,-77,400
+085-FAIR-0045,Virginia,Fairfax,39,-77,400
+085-FAUQ-0002,Virginia,Fauquier,39,-78,400
+085-FAUQ-0003,Virginia,Fauquier,39,-78,400
+085-FBMR-0009,Virginia,Fairfax,39,-77,400
+085-FBMR-0015,Virginia,Fairfax,39,-77,400
+085-FBMR-0016,Virginia,Fairfax,39,-77,400
+085-FBMR-0030,Virginia,Fairfax,39,-77,400
+085-FBMR-0031,Virginia,Fairfax,39,-77,400
+085-FBMR-0034,Virginia,Fairfax,39,-77,400
+085-FBMR-0035,Virginia,Fairfax,39,-77,400
+085-FBMR-0041,Virginia,Fairfax,39,-77,400
+085-FBMR-0045,Virginia,Fairfax,39,-77,400
+085-FBMR-0048,Virginia,Fairfax,39,-77,400
+085-FBMR-0049,Virginia,Fairfax,39,-77,400
+085-FBMR-0050,Virginia,Fairfax,39,-77,400
+085-FBMR-0053,Virginia,Fairfax,39,-77,400
+085-FBMR-0056,Virginia,Fairfax,39,-77,400
+085-FBMR-0057,Virginia,Fairfax,39,-77,400
+085-FBMR-0058,Virginia,Fairfax,39,-77,400
+085-FBMR-0061,Virginia,Fairfax,39,-77,400
+085-FBMR-0064,Virginia,Fairfax,39,-77,400
+085-FHRP-0001,Virginia,Fairfax,39,-77,400
+085-FHRP-0002,Virginia,Fairfax,39,-77,400
+085-FHRP-0003,Virginia,Fairfax,39,-77,400
+085-FHRP-0004,Virginia,Fairfax,39,-77,400
+085-FLUV-0001,Virginia,Fluvanna,38,-78,400
+085-FLUV-0002,Virginia,Fluvanna,38,-78,400
+085-FLUV-0003,Virginia,Fluvanna,38,-78,400
+085-FLUV-0004,Virginia,Fluvanna,38,-78,400
+085-FLUV-0005,Virginia,Fluvanna,38,-78,400
+085-FLUV-0006,Virginia,Fluvanna,38,-78,400
+085-FLUV-0007,Virginia,Fluvanna,38,-78,400
+085-FLUV-0008,Virginia,Fluvanna,38,-78,400
+085-FLUV-0010,Virginia,Fluvanna,38,-78,400
+085-FLUV-0011,Virginia,Fluvanna,38,-78,400
+085-FLUV-0012,Virginia,Fluvanna,38,-78,800
+085-FLUV-0013,Virginia,Fluvanna,38,-78,400
+085-FLUV-0016,Virginia,Fluvanna,38,-78,400
+085-FPMR-0001,Virginia,Nottoway,37,-78,400
+085-FPMR-0003,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0005,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0006,Virginia,Nottoway,37,-78,400
+085-FPMR-0007,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0010,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0011,Virginia,Nottoway,37,-78,400
+085-FPMR-0012,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0013,Virginia,Dinwiddie,37,-78,400
+085-FPMR-0016,Virginia,Nottoway,37,-78,400
+085-FPMR-0017,Virginia,Nottoway,37,-78,400
+085-FPMR-0018,Virginia,Brunswick,37,-78,400
+085-FPMR-0019,Virginia,Brunswick,37,-78,400
+085-FRAN-0003,Virginia,Franklin,37,-80,400
+085-FRAN-0004,Virginia,Franklin,37,-80,400
+085-FRAN-0005,Virginia,Franklin,37,-80,400
+085-FRAN-0007,Virginia,Franklin,37,-80,400
+085-FRAN-0008,Virginia,Franklin,37,-80,400
+085-FRAN-0010,Virginia,Franklin,37,-80,400
+085-FRAN-0011,Virginia,Franklin,37,-80,400
+085-FRAN-0012,Virginia,Franklin,37,-80,400
+085-FRAN-0013,Virginia,Franklin,37,-80,400
+085-FRAN-0014,Virginia,Franklin,37,-80,400
+085-FRAN-0015,Virginia,Franklin,37,-80,400
+085-FRAN-0016,Virginia,Franklin,37,-80,400
+085-FSMP-0001,Virginia,Orange,38,-78,400
+085-FSMP-0002,Virginia,Orange,38,-78,400
+085-FSMP-0003,Virginia,Orange,38,-78,400
+085-FSMP-0004,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0006,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0008,Virginia,Orange,38,-78,400
+085-FSMP-0010,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0015,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0016,Virginia,Orange,38,-78,400
+085-FSMP-0019,Virginia,Spotsylvania,38,-77,400
+085-FSMP-0020,Virginia,Spotsylvania,38,-77,400
+085-FSMP-0021,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0023,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0024,Virginia,Spotsylvania,38,-78,400
+085-FSMP-0025,Virginia,Spotsylvania,38,-78,400
+085-FSSP-0001,Virginia,Patrick,37,-80,400
+085-FSSP-0002,Virginia,Patrick,37,-80,400
+085-FSSP-0003,Virginia,Patrick,37,-80,400
+085-GFNP-0001,Virginia,Fairfax,39,-77,400
+085-GFNP-0006,Virginia,Fairfax,39,-77,400
+085-GFNP-0009,Virginia,Fairfax,39,-77,400
+085-GFNP-0010,Virginia,Fairfax,39,-77,400
+085-GFNP-0011,Virginia,Fairfax,39,-77,400
+085-GFNP-0012,Virginia,Fairfax,39,-77,400
+085-GFNP-0013,Virginia,Fairfax,39,-77,400
+085-GFNP-0014,Virginia,Fairfax,39,-77,400
+085-GFNP-0015,Virginia,Fairfax,39,-77,400
+085-GFNP-0016,Virginia,Fairfax,39,-77,400
+085-GFNP-0022,Virginia,Fairfax,39,-77,400
+085-GFNP-0024,Virginia,Fairfax,39,-77,400
+085-GFNP-0025,Virginia,Fairfax,39,-77,400
+085-GFNP-0026,Virginia,Fairfax,39,-77,400
+085-GFNP-0028,Virginia,Fairfax,39,-77,400
+085-GFNP-0031,Virginia,Fairfax,39,-77,400
+085-GFNP-0032,Virginia,Fairfax,39,-77,400
+085-GFNP-0033,Virginia,Fairfax,39,-77,400
+085-GFNP-0034,Virginia,Fairfax,39,-77,400
+085-GFNP-0035,Virginia,Fairfax,39,-77,400
+085-GFNP-0036,Virginia,Fairfax,39,-77,400
+085-GFNP-0037,Virginia,Fairfax,39,-77,400
+085-GFNP-0038,Virginia,Fairfax,39,-77,400
+085-GFNP-0039,Virginia,Fairfax,39,-77,400
+085-GFNP-0040,Virginia,Fairfax,39,-77,400
+085-GFNP-0042,Virginia,Fairfax,39,-77,400
+085-GFNP-0043,Virginia,Fairfax,39,-77,400
+085-GFNP-0044,Virginia,Fairfax,39,-77,400
+085-GFNP-0045,Virginia,Fairfax,39,-77,400
+085-GFNP-0046,Virginia,Fairfax,39,-77,400
+085-GRAS-0001P,Virginia,Franklin,37,-80,400
+085-GRAS-0002P,Virginia,Franklin,37,-80,400
+085-GRAS-0003P,Virginia,Franklin,37,-80,400
+085-GRAS-0004P,Virginia,Franklin,37,-80,400
+085-GRAS-0005P,Virginia,Franklin,37,-80,400
+085-GRAS-0006P,Virginia,Franklin,37,-80,400
+085-GRAS-0007P,Virginia,Franklin,37,-80,400
+085-GRAS-0008P,Virginia,Franklin,37,-80,400
+085-GRAS-0101,Virginia,Franklin,37,-80,400
+085-GWMP-0001,Virginia,Arlington,39,-77,400
+085-GWMP-0002,Virginia,Arlington,39,-77,400
+085-GWMP-0005,Virginia,Arlington,39,-77,400
+085-GWMP-0006,Virginia,Arlington,39,-77,400
+085-GWMP-0007,Virginia,Arlington,39,-77,400
+085-GWMP-0008,Virginia,Arlington,39,-77,400
+085-GWMP-0014,Virginia,Arlington,39,-77,400
+085-GWMP-0034,Virginia,Arlington,39,-77,400
+085-GWMP-0035,Virginia,Arlington,39,-77,400
+085-HALI-0001,Virginia,Halifax,37,-79,1000
+085-HALI-0002,Virginia,Halifax,37,-79,400
+085-HANO-0002,Virginia,Hanover,38,-78,400
+085-HANO-0003,Virginia,Hanover,38,-78,400
+085-HANO-0004,Virginia,Hanover,38,-78,400
+085-HANO-0005,Virginia,Hanover,38,-78,400
+085-HANO-0006,Virginia,Hanover,38,-78,400
+085-HANO-0011,Virginia,Hanover,38,-78,400
+085-HENY-0002,Virginia,Henry,37,-80,400
+085-HENY-0003,Virginia,Henry,37,-80,400
+085-HENY-0004,Virginia,Henry,37,-80,400
+085-HENY-0005,Virginia,Henry,37,-80,400
+085-HENY-0006,Virginia,Henry,37,-80,400
+085-HENY-0007,Virginia,Henry,37,-80,400
+085-HENY-0008,Virginia,Henry,37,-80,400
+085-HRWM-0002,Virginia,Fluvanna,38,-78,400
+085-HRWM-0003,Virginia,Fluvanna,38,-78,400
+085-HRWM-0004,Virginia,Fluvanna,38,-78,400
+085-HRWM-0006,Virginia,Fluvanna,38,-78,400
+085-JRSP-0001,Virginia,Buckingham,38,-79,400
+085-JRSP-0002,Virginia,Buckingham,38,-79,400
+085-JRSP-0004,Virginia,Buckingham,38,-79,400
+085-JRSP-0005,Virginia,Buckingham,38,-79,400
+085-JRSP-0006,Virginia,Buckingham,38,-79,400
+085-KERR-0002,Virginia,Charlotte,37,-79,400
+085-KERR-0005,Virginia,Charlotte,37,-79,400
+085-KERR-0007,Virginia,Halifax,37,-79,400
+085-KERR-0008,Virginia,Mecklenburg,37,-79,400
+085-KERR-0009,Virginia,Mecklenburg,37,-79,400
+085-KERR-0010,Virginia,Mecklenburg,37,-79,400
+085-KERR-0011,Virginia,Mecklenburg,37,-79,400
+085-KERR-0012,Virginia,Halifax,37,-79,400
+085-KERR-0013,Virginia,Charlotte,37,-79,400
+085-KERR-0014,Virginia,Halifax,37,-79,400
+085-KERR-0015,Virginia,Charlotte,37,-79,400
+085-KERR-0016,Virginia,Halifax,37,-79,400
+085-KERR-0019,Virginia,Halifax,37,-79,400
+085-KERR-0024,Virginia,Charlotte,37,-79,400
+085-KERR-0026,Virginia,Charlotte,37,-79,400
+085-KERR-0027,Virginia,Halifax,37,-79,400
+085-KERR-0028,Virginia,Halifax,37,-79,400
+085-KERR-0030,Virginia,Mecklenburg,37,-79,400
+085-KERR-0031,Virginia,Mecklenburg,37,-79,400
+085-KERR-0032,Virginia,Mecklenburg,37,-79,400
+085-KERR-0033,Virginia,Mecklenburg,37,-79,400
+085-KERR-0034,Virginia,Charlotte,37,-79,400
+085-KERR-0035,Virginia,Charlotte,37,-79,400
+085-KERR-0036,Virginia,Mecklenburg,37,-79,400
+085-KERR-0037,Virginia,Charlotte,37,-79,400
+085-KERR-0038,Virginia,Mecklenburg,37,-78,400
+085-KERR-0039,Virginia,Mecklenburg,37,-79,400
+085-KERR-0040,Virginia,Halifax,37,-79,400
+085-KERR-0041,Virginia,Mecklenburg,37,-78,400
+085-KERR-0042,Virginia,Mecklenburg,37,-78,400
+085-KERR-0043,Virginia,Charlotte,37,-79,400
+085-LASP-0001,Virginia,Spotsylvania,38,-78,400
+085-LASP-0002,Virginia,Spotsylvania,38,-78,400
+085-LASP-0003,Virginia,Spotsylvania,38,-78,400
+085-LASP-0004,Virginia,Spotsylvania,38,-78,400
+085-LASP-0005,Virginia,Spotsylvania,38,-78,400
+085-LASP-0006,Virginia,Spotsylvania,38,-78,400
+085-LEMP-0001,Virginia,City of Petersburg,37,-77,400
+085-LEMP-0002,Virginia,City of Petersburg,37,-77,400
+085-LEMP-0003,Virginia,City of Petersburg,37,-77,400
+085-LEMP-0004,Virginia,City of Petersburg,37,-77,400
+085-LESP-0001,Virginia,Prince William,39,-77,400
+085-LOUD-0001,Virginia,Loudoun,39,-78,400
+085-LOUD-0002,Virginia,Loudoun,39,-78,400
+085-LOUD-0007,Virginia,Loudoun,39,-78,400
+085-LOUD-0008,Virginia,Loudoun,39,-78,400
+085-LOUD-0011,Virginia,Loudoun,39,-78,400
+085-LOUD-0012,Virginia,Loudoun,39,-77,400
+085-LOUD-0014,Virginia,Loudoun,39,-78,400
+085-LOUD-0018,Virginia,Loudoun,39,-78,1000
+085-LUNE-0002,Virginia,Lunenburg,37,-78,400
+085-LUNE-0005,Virginia,Lunenburg,37,-78,400
+085-LUNE-0006,Virginia,Lunenburg,37,-78,400
+085-LUNE-0007,Virginia,Lunenburg,37,-78,400
+085-LUNE-0008,Virginia,Lunenburg,37,-78,400
+085-LUNE-0010,Virginia,Lunenburg,37,-78,1000
+085-MADS-0001,Virginia,Fairfax,39,-77,400
+085-MADS-0003,Virginia,Fairfax,39,-77,400
+085-MADS-0004,Virginia,Fairfax,39,-77,400
+085-MADS-0007,Virginia,Fairfax,39,-77,400
+085-MADS-0010,Virginia,Fairfax,39,-77,400
+085-MADS-0012,Virginia,Fairfax,39,-77,400
+085-MADS-0013,Virginia,Fairfax,39,-77,400
+085-MADS-0015,Virginia,Fairfax,39,-77,400
+085-MADS-0016,Virginia,Fairfax,39,-77,400
+085-MADS-0018,Virginia,Fairfax,39,-77,400
+085-MADS-0019,Virginia,Fairfax,39,-77,400
+085-MADS-0020,Virginia,Fairfax,39,-77,400
+085-MADS-0024,Virginia,Fairfax,39,-77,400
+085-MADS-0026,Virginia,Fairfax,39,-77,400
+085-MADS-0030,Virginia,Fairfax,39,-77,400
+085-MADS-0032,Virginia,Fairfax,39,-77,400
+085-MADS-0033,Virginia,Fairfax,39,-77,400
+085-MNBP-0007,Virginia,Prince William,39,-78,400
+085-MNBP-0008,Virginia,Prince William,39,-78,400
+085-MNBP-0009,Virginia,Prince William,39,-78,400
+085-MNBP-0010,Virginia,Prince William,39,-78,400
+085-MNBP-0012,Virginia,Prince William,39,-78,400
+085-MNBP-0013,Virginia,Prince William,39,-78,400
+085-MNBP-0014,Virginia,Prince William,39,-78,400
+085-MNBP-0015,Virginia,Prince William,39,-78,400
+085-MNBP-0017,Virginia,Prince William,39,-78,400
+085-MNBP-0018,Virginia,Prince William,39,-78,400
+085-MNBP-0019,Virginia,Prince William,39,-78,400
+085-MNBP-0020,Virginia,Prince William,39,-78,400
+085-MNBP-0021,Virginia,Prince William,39,-78,400
+085-MNBP-0022,Virginia,Prince William,39,-78,400
+085-MNBP-0023,Virginia,Prince William,39,-78,400
+085-MNBP-0025,Virginia,Prince William,39,-78,400
+085-MNBP-0028,Virginia,Prince William,39,-78,400
+085-MNBP-0030,Virginia,Prince William,39,-78,400
+085-MNBP-0031,Virginia,Prince William,39,-78,400
+085-MNBP-0032,Virginia,Prince William,39,-78,400
+085-MNBP-0033,Virginia,Prince William,39,-78,400
+085-MONF-0002,Virginia,Orange,38,-78,400
+085-MONF-0003,Virginia,Orange,38,-78,1000
+085-MONF-0004,Virginia,Orange,38,-78,400
+085-MOTT-0001,Virginia,Spotsylvania,38,-78,400
+085-MOTT-0002,Virginia,Spotsylvania,38,-78,400
+085-NAKE-0001P,Virginia,Nelson,38,-79,400
+085-NAKE-0002P,Virginia,Nelson,38,-79,400
+085-NAKE-0003P,Virginia,Nelson,38,-79,400
+085-NAKE-0004P,Virginia,Nelson,38,-79,400
+085-NAKE-0005P,Virginia,Nelson,38,-79,400
+085-NELS-0001,Virginia,Albemarle,38,-79,400
+085-NELS-0002,Virginia,Nelson,38,-79,400
+085-NELS-0003,Virginia,Nelson,38,-79,400
+085-NELS-0004,Virginia,Nelson,38,-79,400
+085-NELS-0005,Virginia,Nelson,38,-79,400
+085-NOTT-0001,Virginia,Nottoway,37,-78,400
+085-ORAN-0001,Virginia,Orange,38,-78,400
+085-ORAN-0002,Virginia,Orange,38,-78,400
+085-PATR-0003,Virginia,Patrick,37,-80,400
+085-PATR-0004,Virginia,Patrick,37,-80,400
+085-PATR-0009,Virginia,Patrick,37,-80,400
+085-PGSF-0001,Virginia,Prince Edward,37,-78,400
+085-PGSF-0002,Virginia,Prince Edward,37,-78,400
+085-PGSF-0003,Virginia,Prince Edward,37,-78,400
+085-PGSF-0004,Virginia,Prince Edward,37,-78,400
+085-PGSF-0005,Virginia,Prince Edward,37,-78,400
+085-PGSF-0006,Virginia,Prince Edward,37,-78,400
+085-PGSF-0007,Virginia,Prince Edward,37,-78,400
+085-PGSF-0009,Virginia,Prince Edward,37,-78,400
+085-PGSF-0010,Virginia,Prince Edward,37,-78,400
+085-PGSF-0011,Virginia,Prince Edward,37,-78,400
+085-PHWM-0001,Virginia,Fauquier,38,-78,400
+085-PHWM-0002,Virginia,Fauquier,38,-78,400
+085-PHWM-0003,Virginia,Fauquier,38,-78,400
+085-PHWM-0004,Virginia,Fauquier,38,-78,400
+085-PHWM-0005,Virginia,Fauquier,38,-78,400
+085-PHWM-0006,Virginia,Fauquier,38,-78,400
+085-PHWM-0007,Virginia,Fauquier,38,-78,400
+085-PHWM-0008,Virginia,Fauquier,38,-78,400
+085-PHWM-0010,Virginia,Culpeper,38,-78,400
+085-PITT-0001,Virginia,Pittsylvania,37,-79,800
+085-PITT-0002,Virginia,Pittsylvania,37,-79,400
+085-PITT-0003,Virginia,Pittsylvania,37,-80,400
+085-PITT-0004,Virginia,Pittsylvania,37,-80,400
+085-PITT-0006,Virginia,Pittsylvania,37,-79,400
+085-PITT-0010,Virginia,Pittsylvania,37,-79,400
+085-PITT-0011,Virginia,Pittsylvania,37,-79,400
+085-PNBP-0003,Virginia,City of Petersburg,37,-77,400
+085-PNBP-0005,Virginia,Dinwiddie,37,-78,400
+085-PNBP-0007,Virginia,City of Petersburg,37,-77,400
+085-PNWM-0001,Virginia,Powhatan,38,-78,400
+085-PNWM-0002,Virginia,Powhatan,38,-78,400
+085-PNWM-0003,Virginia,Powhatan,38,-78,400
+085-PNWM-0005,Virginia,Powhatan,38,-78,400
+085-POSP-0002,Virginia,Chesterfield,37,-78,400
+085-POSP-0003,Virginia,Chesterfield,37,-78,400
+085-POSP-0005,Virginia,Chesterfield,37,-78,400
+085-POSP-0006,Virginia,Chesterfield,37,-78,400
+085-POSP-0007,Virginia,Chesterfield,37,-78,400
+085-POSP-0009,Virginia,Chesterfield,37,-78,400
+085-POWH-0001,Virginia,Powhatan,38,-78,400
+085-PRIE-0001,Virginia,Prince Edward,37,-78,400
+085-PRIE-0003,Virginia,Prince Edward,37,-78,400
+085-PRIW-0001,Virginia,Prince William,39,-78,1000
+085-PWFP-0002P,Virginia,Prince William,39,-77,400
+085-PWFP-0003P,Virginia,Stafford,39,-77,400
+085-PWFP-0004P,Virginia,Stafford,39,-77,400
+085-PWFP-0005P,Virginia,Stafford,39,-77,400
+085-PWFP-0006P,Virginia,Prince William,39,-77,400
+085-PWFP-0007P,Virginia,Stafford,39,-77,400
+085-PWFP-0008,Virginia,Prince William,39,-77,600
+085-PWFP-0009P,Virginia,Stafford,39,-77,400
+085-PWFP-0010P,Virginia,Prince William,39,-77,400
+085-PWFP-0011,Virginia,Stafford,39,-77,1000
+085-PWFP-0012P,Virginia,Prince William,39,-77,400
+085-PWFP-0013P,Virginia,Stafford,39,-77,400
+085-PWFP-0014P,Virginia,Stafford,39,-77,400
+085-PWFP-0015P,Virginia,Prince William,39,-77,400
+085-PWFP-0023,Virginia,Prince William,39,-77,400
+085-PWFP-0025,Virginia,Prince William,39,-77,400
+085-PWFP-0026,Virginia,Prince William,39,-77,400
+085-PWFP-0027,Virginia,Prince William,39,-77,400
+085-PWFP-0031,Virginia,Prince William,39,-77,400
+085-PWFP-0032,Virginia,Prince William,39,-77,400
+085-PWFP-0033,Virginia,Prince William,39,-77,400
+085-PWFP-0034,Virginia,Prince William,39,-77,400
+085-PWFP-0035,Virginia,Prince William,39,-77,400
+085-PWFP-0037,Virginia,Prince William,39,-77,400
+085-PWFP-0038,Virginia,Prince William,39,-77,400
+085-PWFP-0039,Virginia,Prince William,39,-77,400
+085-PWFP-0040,Virginia,Prince William,39,-77,400
+085-PWFP-0041,Virginia,Prince William,39,-77,400
+085-PWFP-0044,Virginia,Prince William,39,-77,400
+085-QMMR-0002,Virginia,Fauquier,39,-78,400
+085-QMMR-0004,Virginia,Fauquier,39,-78,400
+085-QMMR-0006,Virginia,Fauquier,39,-78,400
+085-RIVB-0005,Virginia,Fairfax,39,-77,400
+085-RIVB-0006,Virginia,Fairfax,39,-77,400
+085-RIVB-0007,Virginia,Fairfax,39,-77,400
+085-RIVB-0008,Virginia,Fairfax,39,-77,400
+085-RIVB-0009,Virginia,Fairfax,39,-77,400
+085-RIVB-0010,Virginia,Fairfax,39,-77,400
+085-RIVB-0011,Virginia,Fairfax,39,-77,400
+085-RIVB-0012,Virginia,Fairfax,39,-77,400
+085-RIVB-0013,Virginia,Fairfax,39,-77,400
+085-RIVB-0014,Virginia,Fairfax,39,-77,400
+085-RNBP-0001,Virginia,Chesterfield,37,-77,400
+085-RNBP-0005,Virginia,Henrico,38,-77,400
+085-RNBP-0010,Virginia,Chesterfield,37,-77,400
+085-SCRU-0001,Virginia,Fairfax,39,-77,400
+085-SCRU-0002,Virginia,Fairfax,39,-77,400
+085-SCRU-0003,Virginia,Fairfax,39,-77,400
+085-SCRU-0004,Virginia,Fairfax,39,-77,400
+085-SCRU-0006,Virginia,Fairfax,39,-77,400
+085-SCRU-0007,Virginia,Fairfax,39,-77,400
+085-SCRU-0008,Virginia,Fairfax,39,-77,400
+085-SCRU-0009,Virginia,Fairfax,39,-77,400
+085-SCRU-0010,Virginia,Fairfax,39,-77,400
+085-SCRU-0011,Virginia,Fairfax,39,-77,400
+085-SCRU-0012,Virginia,Fairfax,39,-77,400
+085-SCRU-0013,Virginia,Fairfax,39,-77,400
+085-SCRU-0014,Virginia,Fairfax,39,-77,400
+085-SCRU-0020,Virginia,Fairfax,39,-77,400
+085-SCRU-0021,Virginia,Fairfax,39,-77,400
+085-SCRU-0022,Virginia,Fairfax,39,-77,400
+085-SCRU-0023,Virginia,Fairfax,39,-77,400
+085-SCRU-0024,Virginia,Fairfax,39,-77,400
+085-SCRU-0025,Virginia,Fairfax,39,-77,400
+085-SCRU-0026,Virginia,Fairfax,39,-77,400
+085-SCRU-0027,Virginia,Fairfax,39,-77,400
+085-SCRU-0028,Virginia,Fairfax,39,-77,400
+085-SCRU-0029,Virginia,Fairfax,39,-77,400
+085-SCRU-0030,Virginia,Fairfax,39,-77,400
+085-SCRU-0031,Virginia,Fairfax,39,-77,400
+085-SCRU-0032,Virginia,Fairfax,39,-77,400
+085-SCRU-0033,Virginia,Fairfax,39,-77,400
+085-SPOT-0001,Virginia,Spotsylvania,38,-78,400
+085-SPOT-0002,Virginia,Spotsylvania,38,-78,400
+085-SPOT-0004,Virginia,Spotsylvania,38,-77,400
+085-SRSP-0001,Virginia,Halifax,37,-79,400
+085-SRSP-0002,Virginia,Halifax,37,-79,400
+085-SRSP-0003,Virginia,Halifax,37,-79,400
+085-TURK-0005,Virginia,Fairfax,39,-77,400
+085-TURK-0006,Virginia,Fairfax,39,-77,400
+085-TURK-0008,Virginia,Fairfax,39,-77,400
+085-TURK-0010,Virginia,Fairfax,39,-77,400
+085-TURK-0012,Virginia,Fairfax,39,-77,400
+085-TURK-0013,Virginia,Fairfax,39,-77,400
+085-TURK-0014,Virginia,Fairfax,39,-77,400
+085-TURK-0015,Virginia,Fairfax,39,-77,400
+085-TURK-0016,Virginia,Fairfax,39,-77,400
+085-TURK-0017,Virginia,Fairfax,39,-77,400
+085-TURK-0018,Virginia,Fairfax,39,-77,400
+085-TURK-0019,Virginia,Fairfax,39,-77,400
+085-TURK-0020,Virginia,Fairfax,39,-77,400
+085-TURK-0021,Virginia,Fairfax,39,-77,400
+085-TURK-0022,Virginia,Fairfax,39,-77,400
+085-TURK-0023,Virginia,Fairfax,39,-77,400
+085-TURK-0024,Virginia,Fairfax,39,-77,400
+085-TURK-0025,Virginia,Fairfax,39,-77,400
+085-TURK-0026,Virginia,Fairfax,39,-77,400
+085-TURK-0027,Virginia,Fairfax,39,-77,400
+085-TURK-0028,Virginia,Fairfax,39,-77,400
+085-TURK-0029,Virginia,Fairfax,39,-77,400
+085-TURK-0030,Virginia,Fairfax,39,-77,400
+085-TURK-0037,Virginia,Fairfax,39,-77,400
+085-TURK-0038,Virginia,Fairfax,39,-77,400
+085-TURK-0039,Virginia,Fairfax,39,-77,400
+085-TURK-0040,Virginia,Fairfax,39,-77,400
+085-TURK-0041,Virginia,Fairfax,39,-77,400
+085-TURK-0042,Virginia,Fairfax,39,-77,400
+085-TURK-0043,Virginia,Fairfax,39,-77,400
+085-TURK-0044,Virginia,Fairfax,39,-77,400
+085-TURK-0046,Virginia,Fairfax,39,-77,400
+085-TURK-0047,Virginia,Fairfax,39,-77,400
+085-TURK-0048,Virginia,Fairfax,39,-77,400
+085-TURK-0049,Virginia,Fairfax,39,-77,400
+085-TURK-0050,Virginia,Fairfax,39,-77,400
+085-WATM-0001,Virginia,Fauquier,39,-78,400
+085-WATM-0002,Virginia,Fauquier,39,-78,400
+085-WATM-0003,Virginia,Fauquier,39,-78,400
+085-WATM-0006,Virginia,Fauquier,39,-78,400
+085-WATM-0007,Virginia,Fauquier,39,-78,400
+085-WATM-0008,Virginia,Fauquier,39,-78,400
+085-WATM-0009,Virginia,Fauquier,39,-78,400
+085-WATM-0010,Virginia,Fauquier,39,-78,400
+085-WATM-0011,Virginia,Fauquier,39,-78,400
+085-WATM-0012,Virginia,Fauquier,39,-78,400
+085-WATM-0013,Virginia,Fauquier,39,-78,400
+085-WATM-0014,Virginia,Fauquier,39,-78,400
+085-WATM-0015,Virginia,Fauquier,39,-78,400
+085-WATM-0016,Virginia,Fauquier,39,-78,400
+085-WATM-0017,Virginia,Fauquier,39,-78,400
+085-WATM-0018,Virginia,Fauquier,39,-78,400
+085-WATM-0019,Virginia,Fauquier,39,-78,400
+085-WATM-0021,Virginia,Fauquier,39,-78,400
+085-WATM-0022,Virginia,Fauquier,39,-78,400
+085-WATM-0023,Virginia,Fauquier,39,-78,400
+085-WATM-0024,Virginia,Fauquier,39,-78,400
+085-WATM-0025,Virginia,Fauquier,39,-78,400
+085-WATM-0026,Virginia,Fauquier,39,-78,400
+085-WATM-0027,Virginia,Fauquier,39,-78,400
+085-WATM-0028,Virginia,Fauquier,39,-78,400
+085-WATM-0029,Virginia,Fauquier,39,-78,400
+085-WATM-0030,Virginia,Fauquier,39,-78,400
+085-WATM-0031,Virginia,Fauquier,39,-78,400
+085-WATM-0032,Virginia,Fauquier,39,-78,400
+085-WATM-0033,Virginia,Fauquier,39,-78,400
+085-WATM-0034,Virginia,Fauquier,39,-78,400
+085-WATM-0035,Virginia,Fauquier,39,-78,400
+085-WATM-0036,Virginia,Fauquier,39,-78,400
+085-WATM-0037,Virginia,Fauquier,39,-78,400
+085-WATM-0038,Virginia,Fauquier,39,-78,400
+085-WATM-0039,Virginia,Fauquier,39,-78,400
+085-WATM-0040,Virginia,Fauquier,39,-78,400
+085-WATM-0041,Virginia,Fauquier,39,-78,400
+085-WATM-0042,Virginia,Fauquier,39,-78,400
+085-WATM-0044,Virginia,Fauquier,39,-78,400
+085-WATM-0045,Virginia,Fauquier,39,-78,400
+085-WATM-0046,Virginia,Fauquier,39,-78,400
+085-WATM-0047,Virginia,Fauquier,39,-78,400
+085-WATM-0048,Virginia,Fauquier,39,-78,400
+085-WATM-0049,Virginia,Fauquier,39,-78,400
+085-WATM-0050,Virginia,Fauquier,39,-78,400
+085-WATM-0051,Virginia,Fauquier,39,-78,400
+085-WATM-0052,Virginia,Fauquier,39,-78,400
+085-WATM-0053,Virginia,Fauquier,39,-78,400
+085-WATM-0054,Virginia,Fauquier,39,-78,400
+085-WATM-0055,Virginia,Fauquier,39,-78,400
+085-WATM-0056,Virginia,Fauquier,39,-78,400
+085-WATM-0057,Virginia,Fauquier,39,-78,400
+085-WATM-0058,Virginia,Fauquier,39,-78,400
+085-WATM-0059,Virginia,Fauquier,39,-78,400
+085-WHSF-0001,Virginia,Fauquier,39,-78,400
+085-WTFP-0002,Virginia,Fairfax,39,-77,400
+085-WTFP-0003,Virginia,Fairfax,39,-77,400
+089-01-1230,North Carolina,Franklin,36.21043191,-78.04130412,1000
+089-04-1228,North Carolina,Halifax,36.25474831,-77.87767222,1000
+089-04-1229,North Carolina,Warren,36.28839477,-78.19297068,1000
+089-04-1231,North Carolina,Warren,36.28803548,-78.19263847,1000
+089-05-1227,North Carolina,Warren,36.35557483,-77.937267,500
+089-06-1225,North Carolina,Halifax,36.2593343,-77.87996594,1000
+089-06-1226,North Carolina,Halifax,36.25832856,-77.87869384,800
+089-07-1225,North Carolina,Halifax,36.25635166,-77.87845434,1000
+089-07-1226,North Carolina,Halifax,36.25684075,-77.88059762,1000
+089-09-1227,North Carolina,Warren,36.28778007,-78.19212442,1000
+094-01-0131,Virginia,Carroll,37,-81,1000
+099-01-0063,North Carolina,Gaston,35.30041013,-81.10197223,1000
+099-04-0001,North Carolina,Gaston,35.31055654,-81.10964125,1000
+099-04-0002,North Carolina,Gaston,35.31195943,-81.11371337,600
+099-06-0001,North Carolina,Gaston,35.28772877,-81.09514897,1000
+099-06-0002,North Carolina,Gaston,35.28804551,-81.09368669,1000
+103-COWP-0001,South Carolina,Cherokee,35.14066364,-81.82001154,1000
+103-COWP-0002,South Carolina,Cherokee,35.13651584,-81.82001386,1000
+103-COWP-0003,South Carolina,Cherokee,35.13251776,-81.81519919,1000
+103-COWP-0004,South Carolina,Cherokee,35.13658515,-81.81508606,400
+103-COWP-0005,South Carolina,Cherokee,35.14053334,-81.81526812,1000
+103-COWP-0006,South Carolina,Cherokee,35.13479668,-81.81017278,1000
+103-COWP-0007,South Carolina,Cherokee,35.13254348,-81.81001874,1000
+103-COWP-0008,South Carolina,Cherokee,35.12850291,-81.81016531,1000
+103-COWP-0010,South Carolina,Cherokee,35.12445214,-81.80507671,1000
+103-COWP-0011,South Carolina,Cherokee,35.12865478,-81.80496441,1000
+103-COWP-0012,South Carolina,Cherokee,35.13256737,-81.80507975,1000
+103-COWP-0014,South Carolina,Cherokee,35.12869447,-81.80033312,1000
+103-COWP-0015,South Carolina,Cherokee,35.12446681,-81.80013811,1000
+103-COWP-0016,South Carolina,Cherokee,35.13389836,-81.8150483,1000
+103-COWP-0017,South Carolina,Cherokee,35.12247087,-81.80470602,1000
+104-GUCO-0016,North Carolina,Guilford,36.13195997,-79.84837695,1000
+105-NISI-0002,South Carolina,Greenwood,34.13902427,-82.02358003,1000
+105-NISI-0003,South Carolina,Greenwood,34.14415754,-82.02334908,1000
+105-NISI-0004,South Carolina,Greenwood,34.13887826,-82.01727693,1000
+105-NISI-0005,South Carolina,Greenwood,34.14413534,-82.01733995,1000
+105-NISI-0006,South Carolina,Greenwood,34.14937429,-82.0174136,1000
+105-NISI-0007,South Carolina,Greenwood,34.13907476,-82.01095625,1000
+105-NISI-0008,South Carolina,Greenwood,34.14418686,-82.01110391,1000
+105-NISI-0009,South Carolina,Greenwood,34.14937707,-82.01162133,1000
+105-NISI-0010,South Carolina,Greenwood,34.12858398,-82.02324812,1000
+105-NISI-0011,South Carolina,Greenwood,34.13176319,-82.02375276,1000
+105-NISI-0012,South Carolina,Greenwood,34.13548221,-82.01026275,1000
+108-KIMO-0018,South Carolina,York,35.14566278,-81.37773682,400
+108-KIMO-0020,South Carolina,York,35.14569538,-81.36713211,1000
+108-KIMO-0021,South Carolina,York,35.15452285,-81.36723764,1000
+111-01-1354,North Carolina,Mecklenburg,35.36764942,-80.74958643,1000
+111-01-1356,North Carolina,Mecklenburg,35.04454907,-80.79293271,1000
+111-01-1360,North Carolina,Cabarrus,35.2808341,-80.46381777,1000
+111-02-1350,South Carolina,Lancaster,34.65195477,-80.52009419,1000
+111-02-1352,North Carolina,Mecklenburg,35.25978105,-80.71360708,1000
+111-02-1353,North Carolina,Mecklenburg,35.26180176,-80.71398475,1000
+111-02-1354,North Carolina,Mecklenburg,35.35497563,-80.91476607,1000
+111-03-1351,North Carolina,Mecklenburg,35.36700087,-80.74990766,800
+111-03-1352,North Carolina,Mecklenburg,35.36730965,-80.7509745,1000
+111-03-1353,South Carolina,Lancaster,34.65324537,-80.52035957,1000
+111-04-1343,South Carolina,Lancaster,34.66812151,-80.52644065,400
+111-04-1350,South Carolina,Lancaster,34.67087343,-80.52450394,400
+111-04-1351,South Carolina,Lancaster,34.67046015,-80.52489924,600
+111-04-1355,North Carolina,Mecklenburg,35.09798177,-81.00957838,1000
+111-04-1356,North Carolina,Mecklenburg,35.09744987,-81.0079545,1000
+111-04-1357,North Carolina,Richmond,34.95097281,-79.86910367,1000
+111-06-1350,North Carolina,Stanly,35.16607013,-80.40667061,600
+111-06-1351,North Carolina,Stanly,35.32339845,-80.15908138,1000
+111-06-1352,North Carolina,Stanly,35.37248249,-80.1035745,1000
+111-06-1357,North Carolina,Mecklenburg,35.09881918,-81.01955195,1000
+111-06-1358,North Carolina,Cabarrus,35.44447,-80.38611254,1000
+111-06-1361,North Carolina,Mecklenburg,35.36823959,-80.91491725,1000
+111-07-1352,North Carolina,Stanly,35.3663726,-80.10523816,1000
+111-07-1353,North Carolina,Stanly,35.36842065,-80.10298096,1000
+114-01-0076,North Carolina,Rockingham,36.53925869,-79.67857363,600
+118-42-0001,North Carolina,Orange,36.02085737,-78.99948017,1000
+118-42-0002,North Carolina,Orange,36.02000576,-78.9992243,1000
+118-42-0006,North Carolina,Durham,36.0131821,-78.97732281,1000
+118-42-0008,North Carolina,Durham,36.02006402,-78.98494219,1000
+118-42-0009,North Carolina,Durham,36.00827396,-78.97213991,1000
+118-42-0011,North Carolina,Orange,36.01900807,-78.99993748,1000
+118-42-0012,North Carolina,Orange,36.02211936,-79.00110162,1000
+118-42-0014,North Carolina,Orange,36.02048948,-79.00012195,1000
+118-42-0017,North Carolina,Orange,36.01930294,-78.99762206,1000
+118-42-0021,North Carolina,Orange,36.01845267,-78.99151867,1000
+118-42-0025,North Carolina,Orange,36.01100315,-79.0091266,1000
+118-42-0026,North Carolina,Orange,36.0113244,-79.00947356,1000
+118-42-0029,North Carolina,Orange,36.00851848,-79.00986586,1000
+118-42-0030,North Carolina,Orange,36.00796296,-79.01061206,1000
+118-42-0031,North Carolina,Orange,36.01784647,-79.00001123,1000
+118-42-0034,North Carolina,Durham,36.01844833,-78.98159911,1000
+118-42-0035,North Carolina,Durham,36.02589943,-78.98191945,1000
+118-42-0036,North Carolina,Durham,36.01268437,-78.97133317,1000
+118-42-0042,North Carolina,Orange,36.01663936,-79.0011402,1000
+118-42-0043,North Carolina,Orange,36.01199194,-79.01113211,1000
+118-42-0044,North Carolina,Orange,36.00715955,-79.00999988,1000
+118-42-0049,North Carolina,Durham,36.00009341,-78.964534,1000
+118-42-0050,North Carolina,Durham,36.00084763,-78.96382683,1000
+118-42-0051,North Carolina,Durham,36.01728376,-78.98149567,1000
+118-42-0054,North Carolina,Durham,36.00247528,-78.97252142,1000
+118-42-0055,North Carolina,Durham,36.020077,-78.98625119,1000
+118-42-0056,North Carolina,Durham,36.0259787,-78.98502456,1000
+118-42-0058,North Carolina,Durham,36.01238884,-78.97186806,1000
+118-42-0059,North Carolina,Durham,36.01081805,-78.96960061,1000
+118-42-0060,North Carolina,Durham,36.00990014,-78.96993806,1000
+118-42-0063,North Carolina,Durham,36.00805603,-78.96991553,1000
+118-42-0067,North Carolina,Orange,36.01648262,-78.99445353,1000
+118-42-0070,North Carolina,Durham,36.01571937,-78.98078629,1000
+118-42-0075,North Carolina,Orange,36.01594381,-78.99039828,1000
+118-42-0077,North Carolina,Durham,36.0049578,-78.97445995,1000
+118-42-0078,North Carolina,Durham,36.00538241,-78.97451565,1000
+118-42-0093,North Carolina,Durham,36.0076053,-78.9652395,1000
+118-42-0501,North Carolina,Orange,35.98842058,-79.03524961,1000
+118-42-0503,North Carolina,Orange,35.99030651,-79.03335542,1000
+118-42-0504,North Carolina,Orange,35.98694853,-79.03618453,1000
+118-42-0505,North Carolina,Orange,35.99405143,-79.03414985,1000
+118-42-0506,North Carolina,Orange,35.99168101,-79.03398187,1000
+118-42-0507,North Carolina,Orange,35.99152594,-79.03332019,1000
+118-42-0508,North Carolina,Orange,35.99011664,-79.03313334,1000
+118-42-0509,North Carolina,Orange,35.99115619,-79.03184799,1000
+118-42-0519,North Carolina,Orange,35.98335055,-79.02512727,1000
+118-42-0523,North Carolina,Orange,35.98913613,-79.02996325,1000
+118-42-0524,North Carolina,Orange,35.98621275,-79.03364066,1000
+118-42-0525,North Carolina,Orange,35.99137376,-79.04275229,1000
+118-42-0526,North Carolina,Orange,35.99143798,-79.04116452,1000
+118-42-0528,North Carolina,Orange,35.98119138,-79.03581707,1000
+118-42-0531,North Carolina,Orange,35.99824172,-79.02783981,1000
+118-42-0532,North Carolina,Orange,35.98043844,-79.00049616,1000
+118-42-0539,North Carolina,Orange,35.98341704,-79.00355366,1000
+118-42-0541,North Carolina,Orange,35.99164486,-79.01608502,1000
+118-42-0542,North Carolina,Orange,35.98689252,-79.01798479,1000
+118-42-0551,North Carolina,Orange,36.0084151,-79.04025631,1000
+118-42-0556,North Carolina,Orange,35.99092238,-79.03444438,1000
+118-42-0557,North Carolina,Orange,35.99287964,-79.03176692,1000
+118-42-0560,North Carolina,Orange,35.98478389,-79.02202423,1000
+118-42-0562,North Carolina,Orange,35.9911468,-79.01033573,1000
+118-42-0564,North Carolina,Orange,35.99089829,-79.01546649,1000
+118-42-0569,North Carolina,Orange,35.9930419,-79.02902308,1000
+118-42-0570,North Carolina,Orange,35.98631658,-79.03832976,1000
+118-42-0574,North Carolina,Orange,35.98328218,-79.00574198,1000
+118-42-0578,North Carolina,Orange,35.98038826,-79.00409578,1000
+118-42-0579,North Carolina,Orange,36.03573378,-79.01157836,1000
+118-42-0581,North Carolina,Orange,35.99907927,-79.02834033,1000
+118-42-0582,North Carolina,Orange,35.99208434,-79.00274732,1000
+118-42-0583,North Carolina,Orange,35.99199169,-79.00313788,1000
+118-42-0585,North Carolina,Orange,36.00071371,-79.04061335,1000
+118-42-PSP86,North Carolina,Orange,35.98571132,-79.03439622,1000
+120-01-1431,North Carolina,Person,36.40118825,-78.84493437,1000
+120-01-1433,North Carolina,Person,36.30476818,-79.05108409,1000
+120-01-1435,North Carolina,Caswell,36.38844986,-79.31510362,1000
+120-01-1436,North Carolina,Granville,36.4104184,-78.77906666,1000
+120-01-1437,North Carolina,Granville,36.4128758,-78.78131615,1000
+120-01-1439,North Carolina,Caswell,36.34629486,-79.36275698,1000
+120-01-1440,North Carolina,Caswell,36.346633,-79.36484,1000
+120-02-1430,North Carolina,Alamance,36.24704432,-79.41207224,1000
+120-03-1431,North Carolina,Caswell,36.34498377,-79.28222284,1000
+120-04-1430,North Carolina,Caswell,36.34306518,-79.20266462,1000
+120-04-1433,North Carolina,Rockingham,36.41486396,-79.96093532,500
+120-04-1434,North Carolina,Caswell,36.34559586,-79.28278882,1000
+120-04-1435,North Carolina,Granville,36.40980933,-78.76190054,1000
+120-04-1436,North Carolina,Granville,36.41075157,-78.75495991,1000
+120-04-1437,North Carolina,Granville,36.53507824,-78.48284561,1000
+120-06-1431,North Carolina,Caswell,36.35177005,-79.27461867,1000
+120-06-1432,North Carolina,Granville,36.41199172,-78.66826954,1000
+120-06-1433,North Carolina,Granville,36.40707122,-78.76488939,1000
+120-06-1434,North Carolina,Granville,36.41013188,-78.75747554,1000
+120-06-1435,North Carolina,Caswell,36.37281362,-79.32946346,1000
+120-06-1436,North Carolina,Caswell,36.37492107,-79.32932921,1000
+120-06-1437,North Carolina,Vance,36.38703668,-78.4203914,1000
+120-06-1438,North Carolina,Person,36.5,-79,1000
+120-06-1439,North Carolina,Caswell,36.35977119,-79.3334201,1000
+120-07-1430,North Carolina,Person,36.28178073,-79.03006877,1000
+120-07-1431,North Carolina,Person,36.2855166,-79.03086554,400
+120-07-1432,North Carolina,Rockingham,36.53863049,-79.98796239,400
+120-07-1433,North Carolina,Person,36.53026418,-78.99127163,1000
+120-07-1437,North Carolina,Caswell,36.53624602,-79.2642841,400
+120-08-1430,North Carolina,Person,36.25669523,-78.96389973,400
+120-08-1431,North Carolina,Caswell,36.4,-79.3,1000
+120-10-1431,North Carolina,Person,36.46529828,-78.9701958,1000
+120-10-1432,North Carolina,Person,36.46583165,-78.97081798,1000
+120-10-1433,North Carolina,Caswell,36.3467025,-79.36421932,1000
+120-10-1434,North Carolina,Caswell,36.34632567,-79.36500721,1000
+128-02-1470,South Carolina,McCormick,33.94057616,-82.41351605,1000
+128-03-1470,South Carolina,McCormick,33.73448957,-82.18235,1000
+128-03-1471,South Carolina,McCormick,33.92773881,-82.4648417,1000
+128-03-1472,South Carolina,Abbeville,34.2,-82.3,1000
+128-04-1470,South Carolina,McCormick,33.73476002,-82.1804755,1000
+128-04-1471,South Carolina,McCormick,33.72995355,-82.18419826,1000
+128-04-1475,South Carolina,McCormick,33.7,-82.2,1000
+128-04-1476,South Carolina,McCormick,33.68929528,-82.1587725,500
+128-04-1479,South Carolina,Aiken,33.52399045,-82.00155496,1000
+128-05-1470,South Carolina,McCormick,33.7,-82.2,1000
+128-05-1471,South Carolina,Abbeville,34.09858554,-82.36339089,1000
+128-05-1473,South Carolina,Saluda,33.98653201,-81.98965896,1000
+128-06-1471,South Carolina,McCormick,33.80540377,-82.27542092,1000
+128-06-1472,South Carolina,McCormick,33.79250284,-82.15022381,1000
+128-06-1474,South Carolina,Abbeville,34.2,-82.3,1000
+128-06-1475,South Carolina,Abbeville,34.19927436,-82.28776937,1000
+128-06-1476,South Carolina,Abbeville,34.08400811,-82.36299459,1000
+128-06-1477,South Carolina,Abbeville,34.08209414,-82.36319152,1000
+128-08-1470,South Carolina,McCormick,33.7,-82.2,400
+128-08-1472,South Carolina,Abbeville,34.1,-82.4,500
+128-08-1473,South Carolina,Abbeville,34.09547497,-82.35763936,600
+128-10-1470,South Carolina,Aiken,33.52294098,-82.00307194,600
+129-01-1500,North Carolina,Harnett,35.44952131,-78.8688298,800
+129-01-1501,North Carolina,Wake,35.7,-78.8,1000
+129-01-1502,North Carolina,Orange,36.07889594,-79.01661032,1000
+129-01-1503,North Carolina,Orange,36.07792484,-79.01349222,1000
+129-01-1504,North Carolina,Orange,35.98118689,-79.1101587,1000
+129-01-1505,North Carolina,Orange,35.98117955,-79.10969306,1000
+129-01-1506,North Carolina,Orange,35.98179936,-79.11069864,1000
+129-01-1508,North Carolina,Chatham,35.85476924,-79.04384668,1000
+129-01-1509,North Carolina,Chatham,35.85878156,-79.0411347,1000
+129-01-1510,North Carolina,Wake,35.91707133,-78.38891125,1000
+129-01-1511,North Carolina,Wake,35.95583162,-78.64925238,1000
+129-03-1500,North Carolina,Wake,35.7,-78.8,1000
+129-03-1501,North Carolina,Orange,36.07787243,-79.01685812,1000
+129-03-1502,North Carolina,Granville,36.15082844,-78.76878548,1000
+129-04-1500,North Carolina,Johnston,35.72765319,-78.20389629,400
+129-04-1501,North Carolina,Johnston,35.72706159,-78.20519915,1000
+129-04-1502,North Carolina,Granville,36.2,-78.7,400
+129-04-1512,North Carolina,Wake,35.85482963,-78.74160367,1000
+129-04-1513,North Carolina,Wake,35.85643259,-78.74344053,1000
+129-05-1500,North Carolina,Durham,36.06799968,-78.85152061,1000
+129-05-1501,North Carolina,Durham,36.07024835,-78.85678879,1000
+129-05-1502,North Carolina,Chatham,35.82918519,-79.05712745,1000
+129-05-1504,North Carolina,Durham,36.1,-78.9,1000
+129-06-1500,North Carolina,Harnett,35.47867103,-78.93706194,800
+129-06-1501,North Carolina,Harnett,35.46374718,-78.91530633,1000
+129-06-1502,North Carolina,Wake,35.72495398,-78.78368007,400
+129-06-1503,North Carolina,Wake,35.72280414,-78.78735435,1000
+129-06-1504,North Carolina,Orange,36,-79,1000
+129-06-1505,North Carolina,Orange,35.99291414,-79.05043451,1000
+129-06-1506,North Carolina,Durham,36.18848082,-78.87641004,400
+129-06-1507,North Carolina,Chatham,35.61828238,-79.15843892,800
+129-06-1508,North Carolina,Chatham,35.61244709,-79.15885975,1000
+129-06-1510,North Carolina,Lee,35.62219944,-79.13588049,1000
+129-06-1511,North Carolina,Orange,35.86904623,-79.16656309,1000
+129-06-1512,North Carolina,Chatham,35.86566105,-79.16566651,600
+129-07-1500,North Carolina,Granville,36.1379082,-78.79192043,1000
+129-07-1501,North Carolina,Durham,36.22217064,-78.86153832,1000
+129-07-1502,North Carolina,Durham,36.221558,-78.8630679,1000
+129-07-1503,North Carolina,Chatham,35.61753526,-79.15497831,1000
+129-07-1504,North Carolina,Chatham,35.78992202,-79.03190637,1000
+129-07-1505,North Carolina,Chatham,35.78813562,-79.03346617,1000
+129-07-1506,North Carolina,Chatham,35.62433543,-79.1092434,1000
+129-08-1501,North Carolina,Orange,35.98527804,-79.09525407,1000
+129-08-1502,North Carolina,Durham,35.93350889,-78.97848543,1000
+129-13-1501,North Carolina,Chatham,35.79403104,-79.03015639,1000
+129-13-1502,North Carolina,Wake,35.91726394,-78.38865007,1000
+134-02-1541,South Carolina,Newberry,34.27610702,-81.57415359,1000
+134-02-1542,South Carolina,Newberry,34.33868566,-81.59480116,1000
+134-02-1543,South Carolina,Union,34.47765261,-81.55111582,600
+134-03-1540,South Carolina,Newberry,34.18901,-81.39822,1000
+134-03-1541,South Carolina,Union,34.61053333,-81.65841667,1000
+134-04-1540,South Carolina,Newberry,34.18889607,-81.39995357,1000
+134-04-1541,South Carolina,Newberry,34.27165384,-81.5679422,1000
+134-04-1542,South Carolina,Newberry,34.27438704,-81.58316945,1000
+134-04-1543,South Carolina,Newberry,34.6,-81.8,1000
+134-04-1544,South Carolina,Newberry,34.36759851,-81.66647891,400
+134-04-1546,South Carolina,Newberry,34.37027528,-81.67007824,600
+134-04-1547,South Carolina,Chester,34.67213662,-81.41612444,1000
+134-06-1540,South Carolina,Union,34.57342522,-81.69403162,1000
+134-06-1541,South Carolina,Union,34.5791623,-81.69213859,1000
+134-07-1540,South Carolina,Abbeville,34.211162,-82.28841694,1000
+134-07-1541,South Carolina,Abbeville,34.21066645,-82.28923434,1000
+134-07-1542,South Carolina,Union,34.60930962,-81.65609069,1000
+134-07-1544,South Carolina,Union,34.48871247,-81.6595884,800
+134-07-1545,South Carolina,Chester,34.72568244,-81.45208655,1000
+134-09-1542,South Carolina,Laurens,34.46452777,-81.72003319,500
+134-09-1543,South Carolina,Chester,34.72777143,-81.45292803,1000
+134-10-1541,South Carolina,Union,34.54277073,-81.43015958,600
+134-10-1542,South Carolina,Laurens,34.45121143,-81.71641352,1000
+134-10-1543,South Carolina,Newberry,34.27458189,-81.58011815,800
+134-10-1544,South Carolina,Newberry,34.9358029,-81.78061758,800
+134-12-1540,South Carolina,Newberry,34.18422384,-81.41905275,1000
+134-12-1541,South Carolina,Newberry,34.18597126,-81.41438408,400
+134-12-1542,South Carolina,Chester,34.57297406,-81.41125793,1000
+134-12-1543,South Carolina,Laurens,34.56061569,-81.76418943,1000
+134-12-1544,South Carolina,Laurens,34.56054279,-81.76286981,1000
+134-12-1545,South Carolina,Union,34.62265897,-81.69621937,1000
+135-01-1600,North Carolina,Randolph,35.64083309,-79.75801909,1000
+135-01-1601,North Carolina,Randolph,35.64150995,-79.76158712,1000
+135-01-1605,North Carolina,Montgomery,35.33013262,-80.04595962,1000
+135-03-1600,North Carolina,Montgomery,35.48454221,-79.95598299,1000
+135-04-1600,North Carolina,Randolph,35.71501578,-79.95138211,1000
+135-04-1601,North Carolina,Randolph,35.71147037,-79.95216922,1000
+135-04-1603,North Carolina,Randolph,35.63880185,-79.75950838,1000
+135-04-1604,North Carolina,Montgomery,35.39684901,-80.03730101,1000
+135-04-1605,North Carolina,Montgomery,35.40032047,-80.03505733,1000
+135-04-1606,North Carolina,Randolph,35.72146566,-79.98224348,1000
+135-06-1600,North Carolina,Randolph,35.6,-79.7,1000
+135-06-1602,North Carolina,Montgomery,35.3346472,-80.04447615,1000
+135-08-1600,North Carolina,Randolph,35.6,-79.7,1000
+135-09-1603,North Carolina,Montgomery,35.35922206,-80.0281282,1000
+135-09-1604,North Carolina,Randolph,35.72210993,-79.98273281,1000
+135-11-1600,North Carolina,Randolph,35.71525585,-79.95203122,1000
+135-11-1601,North Carolina,Montgomery,35.40154882,-80.03645226,1000
+136-01-0002,North Carolina,Orange,35.91973569,-79.06493278,500
+136-01-0003,North Carolina,Orange,35.92739624,-79.04314489,500
+136-01-0005,North Carolina,Durham,36.0262614,-78.90064812,500
+136-01-0006,North Carolina,Orange,35.89957471,-79.02918336,500
+136-01-0007,North Carolina,Chatham,35.75432698,-79.05261253,500
+136-01-0008,North Carolina,Chatham,35.75049821,-79.05053836,500
+136-01-0009,North Carolina,Orange,35.89751803,-79.03294582,500
+136-01-0010,North Carolina,Durham,36.13261931,-78.83348133,500
+136-01-0011,North Carolina,Wake,35.75563392,-78.76736916,500
+136-01-0012,North Carolina,Wake,35.75983339,-78.76828029,500
+136-01-0014,North Carolina,Granville,36.08700914,-78.7503358,500
+136-01-0015,North Carolina,Durham,36.00924142,-78.96805454,500
+136-01-0016,North Carolina,Granville,36.08567963,-78.75009608,500
+136-01-0017,North Carolina,Durham,36.01224583,-78.9644936,500
+136-01-0018,North Carolina,Durham,36.05996877,-78.96515196,500
+136-01-0020,North Carolina,Wake,35.77861522,-78.86891704,500
+136-01-0021,North Carolina,Granville,36.15158756,-78.76744139,500
+136-01-0022,North Carolina,Durham,36.00068949,-78.95177833,500
+136-01-0023,North Carolina,Durham,36.06681658,-78.97242539,500
+136-01-0024,North Carolina,Wake,35.76138143,-78.91996431,500
+136-01-0025,North Carolina,Wake,35.82995058,-78.74926046,500
+136-01-0026,North Carolina,Wake,35.84561623,-78.72530269,500
+136-01-0027,North Carolina,Wake,35.86790644,-78.75734551,500
+136-01-0028,North Carolina,Durham,35.96705848,-78.9131282,500
+136-01-0029,North Carolina,Hoke,35.9027,-79.0409,500
+136-01-0030,North Carolina,Durham,35.99482302,-78.83589337,500
+136-01-0031,North Carolina,Wake,35.7477605,-78.62873025,500
+136-01-0032,North Carolina,Durham,35.96232178,-78.90512554,500
+136-01-0033,North Carolina,Wake,35.74732814,-78.66513239,500
+136-01-0034,North Carolina,Wake,35.72770496,-78.78719665,500
+136-01-0035,North Carolina,Orange,35.92136534,-79.01785958,500
+136-01-0036,North Carolina,Durham,35.97729061,-78.95241659,500
+136-01-0037,North Carolina,Orange,35.95731217,-79.01390138,500
+136-01-0038,North Carolina,Durham,35.97162858,-78.96772182,500
+136-01-0039,North Carolina,Wake,35.88132186,-78.65326263,500
+136-01-0040,North Carolina,Wake,35.76178873,-78.58763833,400
+136-01-0041,North Carolina,Wake,35.74600281,-78.76375715,500
+136-01-0043,North Carolina,Wake,35.69301734,-78.62772285,500
+136-01-0045,North Carolina,Durham,35.9159217,-79.00594983,500
+136-01-0047,North Carolina,Durham,36.0488268,-78.92412463,400
+136-01-0048,North Carolina,Wake,35.72032178,-78.92263534,500
+136-01-0050,North Carolina,Durham,35.94160443,-78.97959831,500
+136-01-0052,North Carolina,Durham,35.95165089,-78.9787992,500
+136-01-0054,North Carolina,Orange,35.98681168,-79.05377907,500
+138-01-1620,North Carolina,Gaston,35.30515094,-81.11441883,1000
+138-01-1621,North Carolina,Mecklenburg,35.37337597,-80.9394508,1000
+138-01-1622,North Carolina,Rowan,35.68111228,-80.61319179,1000
+138-01-1623,North Carolina,Rowan,35.68166949,-80.61544351,1000
+138-01-1624,North Carolina,Rowan,35.68229059,-80.61512005,1000
+138-01-1625,North Carolina,Rutherford,35.51245454,-81.93893468,1000
+138-01-1626,North Carolina,Rutherford,35.51305153,-81.938688,1000
+138-01-1627,North Carolina,Rutherford,35.51991262,-81.95366728,1000
+138-02-1621,North Carolina,Mecklenburg,35.37913365,-80.9317507,1000
+138-02-1622,North Carolina,Gaston,35.34321322,-81.04213758,1000
+138-02-1623,North Carolina,Lincoln,35.43899134,-81.24997323,1000
+138-02-1624,North Carolina,Iredell,35.89673206,-80.8235803,1000
+138-02-1625,North Carolina,Rutherford,35.51830261,-81.94630346,1000
+138-03-1620,North Carolina,Mecklenburg,35.37602167,-80.97595568,1000
+138-03-1621,North Carolina,Lincoln,35.42829529,-81.25101978,1000
+138-04-1620,North Carolina,Gaston,35.30806293,-81.12407,1000
+138-04-1622,North Carolina,Gaston,35.16487613,-81.24534324,1000
+138-04-1623,North Carolina,Gaston,35.2,-81.2,1000
+138-04-1624,North Carolina,Gaston,35.3,-81.1,1000
+138-04-1625,North Carolina,Gaston,35.34389942,-81.06111047,1000
+138-04-1626,North Carolina,Lincoln,35.4,-81.2,1000
+138-04-1629,North Carolina,Catawba,35.65857341,-81.41855048,1000
+138-04-1631,North Carolina,Rutherford,35.52584671,-81.95463086,400
+138-05-1620,North Carolina,Gaston,35.35471223,-81.13646848,1000
+138-05-1621,North Carolina,Mecklenburg,35.38139772,-80.93324615,1000
+138-06-1620,North Carolina,Gaston,35.16365777,-81.24585567,1000
+138-06-1621,North Carolina,Gaston,35.2,-81.2,1000
+138-06-1622,North Carolina,Rowan,35.62416893,-80.4227079,1000
+138-06-1623,North Carolina,Iredell,35.64138063,-80.94315942,1000
+138-06-1624,North Carolina,Iredell,35.66951885,-80.92306261,1000
+138-07-1620,North Carolina,Mecklenburg,35.37610916,-80.96497936,1000
+138-08-1620,North Carolina,Gaston,35.3,-81.1,1000
+138-08-1621,North Carolina,Rowan,35.75726543,-80.46935636,1000
+138-09-1620,North Carolina,Gaston,35.35503746,-81.1359187,1000
+138-09-1621,North Carolina,Cabarrus,35.35977159,-80.59718527,1000
+138-09-1622,North Carolina,Mecklenburg,35.49219975,-80.78810816,600
+138-09-1624,North Carolina,McDowell,35.56267552,-81.8501641,1000
+138-10-1620,North Carolina,Gaston,35.22430853,-81.05744932,1000
+138-10-1621,North Carolina,Mecklenburg,35.37622343,-80.9358266,1000
+138-11-1620,North Carolina,Gaston,35.30654577,-81.11734676,1000
+138-11-1622,North Carolina,Gaston,35.17376648,-81.29787456,1000
+138-12-1620,North Carolina,Gaston,35.30443849,-81.12369048,1000
+138-12-1622,North Carolina,Gaston,35.17562872,-81.2846698,600
+138-12-1623,North Carolina,Mecklenburg,35.49390395,-80.78813676,400
+141-01-0002,North Carolina,Gaston,35.3069,-81.09185,1000
+141-01-0003,North Carolina,Gaston,35.28877,-81.08904,1000
+141-01-0004,North Carolina,Gaston,35.29091,-81.09041,1000
+141-01-0005,North Carolina,Gaston,35.28633,-81.08941,1000
+141-01-0006,North Carolina,Gaston,35.28911,-81.09498,1000
+141-01-0007,North Carolina,Gaston,35.3,-81.1,1000
+141-01-0008,North Carolina,Gaston,35.29254,-81.08981,1000
+141-01-0015,North Carolina,Gaston,35.34258,-81.04366,1000
+141-01-0016,North Carolina,Gaston,35.34299,-81.04403,1000
+141-01-0017,North Carolina,Gaston,35.34324,-81.04174,1000
+141-01-0018,North Carolina,Gaston,35.34298,-81.04168,1000
+141-01-0019,North Carolina,Gaston,35.34255,-81.04224,1000
+141-01-0020,North Carolina,Gaston,35.34183,-81.04176,1000
+141-01-0022,North Carolina,Gaston,35.34304,-81.04049,1000
+141-01-0023,North Carolina,Gaston,35.34235,-81.0405,1000
+141-01-0024,North Carolina,Gaston,35.3432,-81.04356,1000
+141-01-0031,North Carolina,Lincoln,35.48017,-81.00891,1000
+141-01-0032,North Carolina,Lincoln,35.48447,-81.00901,1000
+141-01-0033,North Carolina,Lincoln,35.48672,-81.00943,1000
+141-01-0034,North Carolina,Lincoln,35.43767,-81.00979,1000
+141-01-0037,North Carolina,Gaston,35.30913,-81.12694,1000
+141-01-0052,North Carolina,Gaston,35.30246,-81.09787,1000
+142-06-1652,North Carolina,Montgomery,35.39688499,-80.03728958,1000
+142-06-1655,North Carolina,Montgomery,35.39996728,-80.07992469,1000
+142-09-1640,North Carolina,Alexander,35.96789324,-81.11053173,400
+142-09-1641,North Carolina,Alexander,35.97214146,-81.10868537,1000
+142-09-1644,North Carolina,Alexander,36.03003043,-81.21674148,600
+142-09-1646,North Carolina,Alexander,36.00338193,-81.05583432,600
+142-09-1650,North Carolina,Alexander,36.02993198,-81.21634163,400
+146-07-1680,South Carolina,Lancaster,34.66202184,-80.52089836,1000
