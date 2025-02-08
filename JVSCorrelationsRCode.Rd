@@ -167,3 +167,13 @@ rpart.plot(ExTree, extra=1, uniform=T)
 #NewTree<-rpart(Ex5~Elevation+cosAspect+Slope+Water+Road+Organic+pH+ExchangeCapacity+BaseSaturation+NatRich+Wet+BasalArea+StemDensity+S+P+Ca+Mg+K+Na+B+Fe+Mn+Cu+Zn+Al, minsplit=30, dat11)
 #rpart.plot(NewTree, extra=1, uniform=T)
 
+#Using National Vegetation Classification hierarchy, we calculated the mean, median and standard deviation of exotic species cover values for each assigned community type
+CEGL<-read.csv("PlotCEGLs.csv",header=T)
+CEGLEx<-merge(CEGL,dat5[,c(1,30)])
+Alliance<-ddply(CEGLEx, "Alliance", summarize, Mean=mean(Exotics), Median=median(Exotics),SD=sd(Exotics))
+write.csv(Alliance,"AllianceExotics.csv")
+Group<-ddply(CEGLEx, "Group", summarize, Mean=mean(Exotics), Median=median(Exotics),SD=sd(Exotics))
+write.csv(Group,"GroupExotics.csv")
+Macrogroup<-ddply(CEGLEx, "MacroG", summarize, Mean=mean(Exotics), Median=median(Exotics),SD=sd(Exotics))
+write.csv(Macrogroup,"MacrogroupExotics.csv")
+
